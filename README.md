@@ -52,7 +52,7 @@ O Thallus agrega leituras de sensores ambientais (temperatura, humidade, qualida
 ## Localizações Monitorizadas
 
 | ID | Nome | 
-|---|---|---|
+|---|---|
 | loc_1 | Parque Verde | 
 | loc_2 | Polo II | 
 | loc_3 | Vale das Flores | 
