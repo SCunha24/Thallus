@@ -1,0 +1,154 @@
+@media (max-width: 1200px) {
+
+  .comparison-layout {
+    grid-template-columns: 260px 1fr;
+  }
+
+  .comparison-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
+  .location-card {
+    padding: 12px;
+    gap: 10px;
+  }
+  .card-title {
+    font-size: 15px;
+  }
+  .metric-value {
+    font-size: 18px;
+  }
+
+  .detailed-layout {
+    grid-template-columns: 320px minmax(0, 1fr);
+  }
+  .charts-content {
+    grid-template-columns: 1fr;
+  }
+
+  .detailed-layout .marker-image-wrap {
+    display: none;
+  }
+
+  .map-sidebar {
+    max-height: none;
+    width: 100%;
+  }
+  .map-sidebar .marker-inner {
+    width: 20px;
+    height: 20px;
+  }
+  .map-sidebar .marker-label {
+    top: -25px;
+    font-size: 10px;
+    padding: 4px 7px;
+  }
+  .marker-image {
+    width: 68px;
+    height: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .header {
+    padding: 14px 16px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+  .header-left,
+  .header-right {
+    min-width: auto;
+    width: 100%;
+  }
+  .mode-nav {
+    width: 100%;
+    justify-content: space-around;
+  }
+  .mode-btn {
+    flex: 1;
+    justify-content: center;
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+
+  .view-section {
+    padding: 10px;
+  }
+  .main {
+    overflow-y: auto;
+  }
+
+  #overview-view {
+    flex-direction: column;
+    gap: 14px;
+  }
+  .map-container.full {
+    width: 100%;
+  }
+  .info-panel {
+    width: 100%;
+  }
+
+  .comparison-layout {
+    grid-template-columns: 160px 1fr;
+    gap: 10px;
+  }
+  .detailed-layout {
+    grid-template-columns: 150px minmax(0, 1fr);
+    gap: 10px;
+  }
+
+  .comparison-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  .location-card {
+    padding: 10px;
+    gap: 8px;
+  }
+  .card-title {
+    font-size: 13px;
+  }
+  .metric-value {
+    font-size: 15px;
+  }
+  .metric-item {
+    padding: 7px;
+  }
+  .metric-grid {
+    gap: 6px;
+  }
+
+  .map-sidebar .marker-inner {
+    width: 15px;
+    height: 15px;
+  }
+  .map-sidebar .marker-label {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+
+  .comparison-layout,
+  .detailed-layout {
+    grid-template-columns: 1fr;
+    height: auto;
+    gap: 12px;
+  }
+
+  .comparison-layout .comparison-content {
+    order: 1;
+  }
+  .comparison-layout .map-sidebar {
+    order: 2;
+  }
+
+  .detailed-layout .charts-content {
+    order: 1;
+  }
+  .detailed-layout .map-sidebar {
+    order: 2;
+  }
+}

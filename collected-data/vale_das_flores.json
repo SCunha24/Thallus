@@ -1,0 +1,5192 @@
+{
+  "name": "Vale das Flores",
+  "total_readings": 432,
+  "first_reading": "2026-06-02T11:44:32.260Z",
+  "last_reading": "2026-06-02T11:53:53.890Z",
+  "readings": [
+    {
+      "timestamp": "2026-06-02T11:44:32.260Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 27.3,
+        "humidity": 38,
+        "airQuality": 246,
+        "noise": 0.549991,
+        "light": 733
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:32.260Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 27.3,
+        "humidity": 38,
+        "airQuality": 246,
+        "noise": 0.549991,
+        "light": 733
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:32.261Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 27.3,
+        "humidity": 38,
+        "airQuality": 246,
+        "noise": 0.549991,
+        "light": 733
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:32.261Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 27.3,
+        "humidity": 38,
+        "airQuality": 246,
+        "noise": 0.549991,
+        "light": 733
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:36.555Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 27.2,
+        "humidity": 38.4,
+        "airQuality": 242,
+        "noise": 1,
+        "light": 374
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:36.556Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 27.2,
+        "humidity": 38.4,
+        "airQuality": 242,
+        "noise": 1,
+        "light": 374
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:36.556Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 27.2,
+        "humidity": 38.4,
+        "airQuality": 242,
+        "noise": 1,
+        "light": 374
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:36.556Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 27.2,
+        "humidity": 38.4,
+        "airQuality": 242,
+        "noise": 1,
+        "light": 374
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:41.273Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.6,
+        "humidity": 39.1,
+        "airQuality": 179,
+        "noise": 1,
+        "light": 511
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:41.274Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.6,
+        "humidity": 39.1,
+        "airQuality": 179,
+        "noise": 1,
+        "light": 511
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:41.274Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.6,
+        "humidity": 39.1,
+        "airQuality": 179,
+        "noise": 1,
+        "light": 511
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:41.274Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.6,
+        "humidity": 39.1,
+        "airQuality": 179,
+        "noise": 1,
+        "light": 511
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:46.315Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 39.4,
+        "airQuality": 317,
+        "noise": 0.749803,
+        "light": 365
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:46.315Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 39.4,
+        "airQuality": 317,
+        "noise": 0.749803,
+        "light": 365
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:46.315Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 39.4,
+        "airQuality": 317,
+        "noise": 0.749803,
+        "light": 365
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:46.316Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 39.4,
+        "airQuality": 317,
+        "noise": 0.749803,
+        "light": 365
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:51.357Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 40.2,
+        "airQuality": 225,
+        "noise": 1,
+        "light": 347
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:51.357Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 40.2,
+        "airQuality": 225,
+        "noise": 1,
+        "light": 347
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:51.358Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 40.2,
+        "airQuality": 225,
+        "noise": 1,
+        "light": 347
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:51.358Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 40.2,
+        "airQuality": 225,
+        "noise": 1,
+        "light": 347
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:56.327Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 40.5,
+        "airQuality": 280,
+        "noise": 0.485324,
+        "light": 727
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:56.327Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 40.5,
+        "airQuality": 280,
+        "noise": 0.485324,
+        "light": 727
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:56.328Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 40.5,
+        "airQuality": 280,
+        "noise": 0.485324,
+        "light": 727
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:44:56.328Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 40.5,
+        "airQuality": 280,
+        "noise": 0.485324,
+        "light": 727
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:03.336Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 40.9,
+        "airQuality": 290,
+        "noise": 0.51837,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:03.336Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 40.9,
+        "airQuality": 290,
+        "noise": 0.51837,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:03.336Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 40.9,
+        "airQuality": 290,
+        "noise": 0.51837,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:03.336Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 40.9,
+        "airQuality": 290,
+        "noise": 0.51837,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:06.248Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 41.1,
+        "airQuality": 295,
+        "noise": 0.391131,
+        "light": 380
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:06.248Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 41.1,
+        "airQuality": 295,
+        "noise": 0.391131,
+        "light": 380
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:06.248Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 41.1,
+        "airQuality": 295,
+        "noise": 0.391131,
+        "light": 380
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:06.248Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 41.1,
+        "airQuality": 295,
+        "noise": 0.391131,
+        "light": 380
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:13.987Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 41.5,
+        "airQuality": 211,
+        "noise": 0.841842,
+        "light": 21
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:13.988Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 41.5,
+        "airQuality": 211,
+        "noise": 0.841842,
+        "light": 21
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:13.988Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 41.5,
+        "airQuality": 211,
+        "noise": 0.841842,
+        "light": 21
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:13.988Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 41.5,
+        "airQuality": 211,
+        "noise": 0.841842,
+        "light": 21
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:16.339Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 42.1,
+        "airQuality": 256,
+        "noise": 0.815361,
+        "light": 550
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:16.340Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 42.1,
+        "airQuality": 256,
+        "noise": 0.815361,
+        "light": 550
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:16.340Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 42.1,
+        "airQuality": 256,
+        "noise": 0.815361,
+        "light": 550
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:16.340Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 42.1,
+        "airQuality": 256,
+        "noise": 0.815361,
+        "light": 550
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:21.377Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 42.7,
+        "airQuality": 272,
+        "noise": 1,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:21.378Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 42.7,
+        "airQuality": 272,
+        "noise": 1,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:21.378Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 42.7,
+        "airQuality": 272,
+        "noise": 1,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:21.378Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 42.7,
+        "airQuality": 272,
+        "noise": 1,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:26.385Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 42.7,
+        "airQuality": 256,
+        "noise": 1,
+        "light": 672
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:26.386Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 42.7,
+        "airQuality": 256,
+        "noise": 1,
+        "light": 672
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:26.386Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 42.7,
+        "airQuality": 256,
+        "noise": 1,
+        "light": 672
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:26.386Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 42.7,
+        "airQuality": 256,
+        "noise": 1,
+        "light": 672
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:31.621Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 42.8,
+        "airQuality": 363,
+        "noise": 1,
+        "light": 764
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:31.621Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 42.8,
+        "airQuality": 363,
+        "noise": 1,
+        "light": 764
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:31.621Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 42.8,
+        "airQuality": 363,
+        "noise": 1,
+        "light": 764
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:31.622Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 42.8,
+        "airQuality": 363,
+        "noise": 1,
+        "light": 764
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:36.507Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.5,
+        "humidity": 42.8,
+        "airQuality": 245,
+        "noise": 1,
+        "light": 491
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:36.508Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.5,
+        "humidity": 42.8,
+        "airQuality": 245,
+        "noise": 1,
+        "light": 491
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:36.508Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.5,
+        "humidity": 42.8,
+        "airQuality": 245,
+        "noise": 1,
+        "light": 491
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:36.508Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.5,
+        "humidity": 42.8,
+        "airQuality": 245,
+        "noise": 1,
+        "light": 491
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:41.429Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.3,
+        "humidity": 42.9,
+        "airQuality": 187,
+        "noise": 1,
+        "light": 470
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:41.430Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.3,
+        "humidity": 42.9,
+        "airQuality": 187,
+        "noise": 1,
+        "light": 470
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:41.430Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.3,
+        "humidity": 42.9,
+        "airQuality": 187,
+        "noise": 1,
+        "light": 470
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:41.431Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.3,
+        "humidity": 42.9,
+        "airQuality": 187,
+        "noise": 1,
+        "light": 470
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:46.484Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 43.1,
+        "airQuality": 256,
+        "noise": 0.682815,
+        "light": 371
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:46.484Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 43.1,
+        "airQuality": 256,
+        "noise": 0.682815,
+        "light": 371
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:46.485Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 43.1,
+        "airQuality": 256,
+        "noise": 0.682815,
+        "light": 371
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:46.485Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 43.1,
+        "airQuality": 256,
+        "noise": 0.682815,
+        "light": 371
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:51.634Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 43.5,
+        "airQuality": 215,
+        "noise": 1,
+        "light": 481
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:51.634Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 43.5,
+        "airQuality": 215,
+        "noise": 1,
+        "light": 481
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:51.635Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 43.5,
+        "airQuality": 215,
+        "noise": 1,
+        "light": 481
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:51.635Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 43.5,
+        "airQuality": 215,
+        "noise": 1,
+        "light": 481
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:56.693Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 43.8,
+        "airQuality": 277,
+        "noise": 0.965988,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:56.693Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 43.8,
+        "airQuality": 277,
+        "noise": 0.965988,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:56.693Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 43.8,
+        "airQuality": 277,
+        "noise": 0.965988,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:45:56.694Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 43.8,
+        "airQuality": 277,
+        "noise": 0.965988,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:01.602Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 44,
+        "airQuality": 299,
+        "noise": 0.709438,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:01.602Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 44,
+        "airQuality": 299,
+        "noise": 0.709438,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:01.602Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 44,
+        "airQuality": 299,
+        "noise": 0.709438,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:01.603Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.2,
+        "humidity": 44,
+        "airQuality": 299,
+        "noise": 0.709438,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:06.620Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 44,
+        "airQuality": 321,
+        "noise": 0.576662,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:06.621Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 44,
+        "airQuality": 321,
+        "noise": 0.576662,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:06.621Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 44,
+        "airQuality": 321,
+        "noise": 0.576662,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:06.621Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 44,
+        "airQuality": 321,
+        "noise": 0.576662,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:13.526Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 44.3,
+        "airQuality": 208,
+        "noise": 0.918072,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:13.526Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 44.3,
+        "airQuality": 208,
+        "noise": 0.918072,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:13.527Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 44.3,
+        "airQuality": 208,
+        "noise": 0.918072,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:13.527Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25.1,
+        "humidity": 44.3,
+        "airQuality": 208,
+        "noise": 0.918072,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:16.693Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 44.6,
+        "airQuality": 319,
+        "noise": 0.698605,
+        "light": 378
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:16.693Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 44.6,
+        "airQuality": 319,
+        "noise": 0.698605,
+        "light": 378
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:16.694Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 44.6,
+        "airQuality": 319,
+        "noise": 0.698605,
+        "light": 378
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:16.694Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 44.6,
+        "airQuality": 319,
+        "noise": 0.698605,
+        "light": 378
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:21.765Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.9,
+        "humidity": 45.2,
+        "airQuality": 191,
+        "noise": 1,
+        "light": 593
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:21.766Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.9,
+        "humidity": 45.2,
+        "airQuality": 191,
+        "noise": 1,
+        "light": 593
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:21.766Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.9,
+        "humidity": 45.2,
+        "airQuality": 191,
+        "noise": 1,
+        "light": 593
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:21.766Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.9,
+        "humidity": 45.2,
+        "airQuality": 191,
+        "noise": 1,
+        "light": 593
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:26.739Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.9,
+        "humidity": 45.6,
+        "airQuality": 260,
+        "noise": 0.614805,
+        "light": 917
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:26.740Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.9,
+        "humidity": 45.6,
+        "airQuality": 260,
+        "noise": 0.614805,
+        "light": 917
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:26.740Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.9,
+        "humidity": 45.6,
+        "airQuality": 260,
+        "noise": 0.614805,
+        "light": 917
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:26.740Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.9,
+        "humidity": 45.6,
+        "airQuality": 260,
+        "noise": 0.614805,
+        "light": 917
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:31.795Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45.6,
+        "airQuality": 166,
+        "noise": 0.971112,
+        "light": 502
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:31.795Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45.6,
+        "airQuality": 166,
+        "noise": 0.971112,
+        "light": 502
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:31.796Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45.6,
+        "airQuality": 166,
+        "noise": 0.971112,
+        "light": 502
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:31.796Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45.6,
+        "airQuality": 166,
+        "noise": 0.971112,
+        "light": 502
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:36.812Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45,
+        "airQuality": 372,
+        "noise": 0.525397,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:36.813Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45,
+        "airQuality": 372,
+        "noise": 0.525397,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:36.814Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45,
+        "airQuality": 372,
+        "noise": 0.525397,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:36.814Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45,
+        "airQuality": 372,
+        "noise": 0.525397,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.184Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 44.7,
+        "airQuality": 326,
+        "noise": 0.780568,
+        "light": 546
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.184Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 44.7,
+        "airQuality": 326,
+        "noise": 0.780568,
+        "light": 546
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.185Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 44.7,
+        "airQuality": 326,
+        "noise": 0.780568,
+        "light": 546
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.185Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 44.7,
+        "airQuality": 326,
+        "noise": 0.780568,
+        "light": 546
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.185Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 44.7,
+        "airQuality": 301,
+        "noise": 0.480238,
+        "light": 127
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.186Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 44.7,
+        "airQuality": 301,
+        "noise": 0.480238,
+        "light": 127
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.186Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 44.7,
+        "airQuality": 301,
+        "noise": 0.480238,
+        "light": 127
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.186Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 44.7,
+        "airQuality": 301,
+        "noise": 0.480238,
+        "light": 127
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.186Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45.5,
+        "airQuality": 321,
+        "noise": 0.695867,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.187Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45.5,
+        "airQuality": 321,
+        "noise": 0.695867,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.187Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45.5,
+        "airQuality": 321,
+        "noise": 0.695867,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.187Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.8,
+        "humidity": 45.5,
+        "airQuality": 321,
+        "noise": 0.695867,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.965Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 45.6,
+        "airQuality": 239,
+        "noise": 1,
+        "light": 682
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.966Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 45.6,
+        "airQuality": 239,
+        "noise": 1,
+        "light": 682
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.966Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 45.6,
+        "airQuality": 239,
+        "noise": 1,
+        "light": 682
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:46:56.966Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 45.6,
+        "airQuality": 239,
+        "noise": 1,
+        "light": 682
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:01.941Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 45.4,
+        "airQuality": 253,
+        "noise": 0.87823,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:01.941Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 45.4,
+        "airQuality": 253,
+        "noise": 0.87823,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:01.941Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 45.4,
+        "airQuality": 253,
+        "noise": 0.87823,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:01.942Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.7,
+        "humidity": 45.4,
+        "airQuality": 253,
+        "noise": 0.87823,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:06.936Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 45.6,
+        "airQuality": 265,
+        "noise": 0.641546,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:06.936Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 45.6,
+        "airQuality": 265,
+        "noise": 0.641546,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:06.937Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 45.6,
+        "airQuality": 265,
+        "noise": 0.641546,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:06.937Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 45.6,
+        "airQuality": 265,
+        "noise": 0.641546,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:11.954Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 45.9,
+        "airQuality": 282,
+        "noise": 0.911074,
+        "light": 25
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:11.954Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 45.9,
+        "airQuality": 282,
+        "noise": 0.911074,
+        "light": 25
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:11.955Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 45.9,
+        "airQuality": 282,
+        "noise": 0.911074,
+        "light": 25
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:11.955Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 45.9,
+        "airQuality": 282,
+        "noise": 0.911074,
+        "light": 25
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:16.930Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 46.1,
+        "airQuality": 298,
+        "noise": 1,
+        "light": 679
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:16.930Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 46.1,
+        "airQuality": 298,
+        "noise": 1,
+        "light": 679
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:16.930Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 46.1,
+        "airQuality": 298,
+        "noise": 1,
+        "light": 679
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:16.931Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.5,
+        "humidity": 46.1,
+        "airQuality": 298,
+        "noise": 1,
+        "light": 679
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:21.989Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.4,
+        "humidity": 46.1,
+        "airQuality": 321,
+        "noise": 0.803775,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:21.989Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.4,
+        "humidity": 46.1,
+        "airQuality": 321,
+        "noise": 0.803775,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:21.989Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.4,
+        "humidity": 46.1,
+        "airQuality": 321,
+        "noise": 0.803775,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:21.990Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.4,
+        "humidity": 46.1,
+        "airQuality": 321,
+        "noise": 0.803775,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:27.418Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.3,
+        "humidity": 46.5,
+        "airQuality": 277,
+        "noise": 0.803688,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:27.419Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.3,
+        "humidity": 46.5,
+        "airQuality": 277,
+        "noise": 0.803688,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:27.419Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.3,
+        "humidity": 46.5,
+        "airQuality": 277,
+        "noise": 0.803688,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:27.419Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.3,
+        "humidity": 46.5,
+        "airQuality": 277,
+        "noise": 0.803688,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:32.037Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.2,
+        "humidity": 46.5,
+        "airQuality": 290,
+        "noise": 0.988244,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:32.038Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.2,
+        "humidity": 46.5,
+        "airQuality": 290,
+        "noise": 0.988244,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:32.038Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.2,
+        "humidity": 46.5,
+        "airQuality": 290,
+        "noise": 0.988244,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:32.038Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.2,
+        "humidity": 46.5,
+        "airQuality": 290,
+        "noise": 0.988244,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:37.145Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46.6,
+        "airQuality": 251,
+        "noise": 1,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:37.146Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46.6,
+        "airQuality": 251,
+        "noise": 1,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:37.146Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46.6,
+        "airQuality": 251,
+        "noise": 1,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:37.146Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46.6,
+        "airQuality": 251,
+        "noise": 1,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:42.059Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46.8,
+        "airQuality": 297,
+        "noise": 0.593642,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:42.059Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46.8,
+        "airQuality": 297,
+        "noise": 0.593642,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:42.059Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46.8,
+        "airQuality": 297,
+        "noise": 0.593642,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:42.060Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46.8,
+        "airQuality": 297,
+        "noise": 0.593642,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:47.168Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24,
+        "humidity": 47,
+        "airQuality": 319,
+        "noise": 1,
+        "light": 382
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:47.168Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24,
+        "humidity": 47,
+        "airQuality": 319,
+        "noise": 1,
+        "light": 382
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:47.168Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24,
+        "humidity": 47,
+        "airQuality": 319,
+        "noise": 1,
+        "light": 382
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:47:47.169Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24,
+        "humidity": 47,
+        "airQuality": 319,
+        "noise": 1,
+        "light": 382
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:17.183Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46,
+        "airQuality": 308,
+        "noise": 1,
+        "light": 366
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:17.183Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46,
+        "airQuality": 308,
+        "noise": 1,
+        "light": 366
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:17.184Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46,
+        "airQuality": 308,
+        "noise": 1,
+        "light": 366
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:17.184Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 24.1,
+        "humidity": 46,
+        "airQuality": 308,
+        "noise": 1,
+        "light": 366
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:22.205Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.2,
+        "airQuality": 250,
+        "noise": 0.978811,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:22.205Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.2,
+        "airQuality": 250,
+        "noise": 0.978811,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:22.205Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.2,
+        "airQuality": 250,
+        "noise": 0.978811,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:22.205Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.2,
+        "airQuality": 250,
+        "noise": 0.978811,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:27.321Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.3,
+        "airQuality": 275,
+        "noise": 1,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:27.321Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.3,
+        "airQuality": 275,
+        "noise": 1,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:27.321Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.3,
+        "airQuality": 275,
+        "noise": 1,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:27.322Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.3,
+        "airQuality": 275,
+        "noise": 1,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:32.238Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 47.5,
+        "airQuality": 325,
+        "noise": 0.908022,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:32.238Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 47.5,
+        "airQuality": 325,
+        "noise": 0.908022,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:32.238Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 47.5,
+        "airQuality": 325,
+        "noise": 0.908022,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:32.239Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 47.5,
+        "airQuality": 325,
+        "noise": 0.908022,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:37.280Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.7,
+        "airQuality": 126,
+        "noise": 1,
+        "light": 787
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:37.280Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.7,
+        "airQuality": 126,
+        "noise": 1,
+        "light": 787
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:37.281Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.7,
+        "airQuality": 126,
+        "noise": 1,
+        "light": 787
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:37.281Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.7,
+        "airQuality": 126,
+        "noise": 1,
+        "light": 787
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:42.280Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48,
+        "airQuality": 239,
+        "noise": 0.627888,
+        "light": 198
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:42.281Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48,
+        "airQuality": 239,
+        "noise": 0.627888,
+        "light": 198
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:42.281Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48,
+        "airQuality": 239,
+        "noise": 0.627888,
+        "light": 198
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:42.281Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48,
+        "airQuality": 239,
+        "noise": 0.627888,
+        "light": 198
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:47.303Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48.1,
+        "airQuality": 302,
+        "noise": 0.940917,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:47.304Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48.1,
+        "airQuality": 302,
+        "noise": 0.940917,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:47.304Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48.1,
+        "airQuality": 302,
+        "noise": 0.940917,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:47.304Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48.1,
+        "airQuality": 302,
+        "noise": 0.940917,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:52.344Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.2,
+        "airQuality": 0,
+        "noise": 1,
+        "light": 656
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:52.344Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.2,
+        "airQuality": 0,
+        "noise": 1,
+        "light": 656
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:52.344Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.2,
+        "airQuality": 0,
+        "noise": 1,
+        "light": 656
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:52.345Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.2,
+        "airQuality": 0,
+        "noise": 1,
+        "light": 656
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:57.392Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.2,
+        "airQuality": 235,
+        "noise": 0.91164,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:57.392Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.2,
+        "airQuality": 235,
+        "noise": 0.91164,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:57.393Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.2,
+        "airQuality": 235,
+        "noise": 0.91164,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:48:57.393Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.2,
+        "airQuality": 235,
+        "noise": 0.91164,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:02.434Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.3,
+        "airQuality": 287,
+        "noise": 1,
+        "light": 317
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:02.435Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.3,
+        "airQuality": 287,
+        "noise": 1,
+        "light": 317
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:02.435Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.3,
+        "airQuality": 287,
+        "noise": 1,
+        "light": 317
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:02.435Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 48.3,
+        "airQuality": 287,
+        "noise": 1,
+        "light": 317
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:07.463Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48,
+        "airQuality": 375,
+        "noise": 1,
+        "light": 762
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:07.463Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48,
+        "airQuality": 375,
+        "noise": 1,
+        "light": 762
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:07.464Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48,
+        "airQuality": 375,
+        "noise": 1,
+        "light": 762
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:07.464Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 48,
+        "airQuality": 375,
+        "noise": 1,
+        "light": 762
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:12.479Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.8,
+        "airQuality": 289,
+        "noise": 1,
+        "light": 797
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:12.479Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.8,
+        "airQuality": 289,
+        "noise": 1,
+        "light": 797
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:12.479Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.8,
+        "airQuality": 289,
+        "noise": 1,
+        "light": 797
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:12.480Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.9,
+        "humidity": 47.8,
+        "airQuality": 289,
+        "noise": 1,
+        "light": 797
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:17.550Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.5,
+        "airQuality": 290,
+        "noise": 1,
+        "light": 602
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:17.550Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.5,
+        "airQuality": 290,
+        "noise": 1,
+        "light": 602
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:17.551Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.5,
+        "airQuality": 290,
+        "noise": 1,
+        "light": 602
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:17.551Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.5,
+        "airQuality": 290,
+        "noise": 1,
+        "light": 602
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:22.518Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.7,
+        "airQuality": 301,
+        "noise": 0.572533,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:22.518Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.7,
+        "airQuality": 301,
+        "noise": 0.572533,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:22.518Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.7,
+        "airQuality": 301,
+        "noise": 0.572533,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:22.518Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.7,
+        "airQuality": 301,
+        "noise": 0.572533,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:27.536Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.9,
+        "airQuality": 282,
+        "noise": 1,
+        "light": 970
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:27.536Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.9,
+        "airQuality": 282,
+        "noise": 1,
+        "light": 970
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:27.537Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.9,
+        "airQuality": 282,
+        "noise": 1,
+        "light": 970
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:27.537Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.9,
+        "airQuality": 282,
+        "noise": 1,
+        "light": 970
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:32.571Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.8,
+        "airQuality": 278,
+        "noise": 0.712408,
+        "light": 16
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:32.571Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.8,
+        "airQuality": 278,
+        "noise": 0.712408,
+        "light": 16
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:32.572Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.8,
+        "airQuality": 278,
+        "noise": 0.712408,
+        "light": 16
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:32.572Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 47.8,
+        "airQuality": 278,
+        "noise": 0.712408,
+        "light": 16
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:37.572Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48,
+        "airQuality": 331,
+        "noise": 0.716722,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:37.572Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48,
+        "airQuality": 331,
+        "noise": 0.716722,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:37.572Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48,
+        "airQuality": 331,
+        "noise": 0.716722,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:37.572Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48,
+        "airQuality": 331,
+        "noise": 0.716722,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:42.643Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48,
+        "airQuality": 320,
+        "noise": 0.535068,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:42.643Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48,
+        "airQuality": 320,
+        "noise": 0.535068,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:42.643Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48,
+        "airQuality": 320,
+        "noise": 0.535068,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:42.644Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48,
+        "airQuality": 320,
+        "noise": 0.535068,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:47.573Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48.1,
+        "airQuality": 257,
+        "noise": 1,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:47.574Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48.1,
+        "airQuality": 257,
+        "noise": 1,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:47.574Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48.1,
+        "airQuality": 257,
+        "noise": 1,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:47.574Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48.1,
+        "airQuality": 257,
+        "noise": 1,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:52.625Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48.4,
+        "airQuality": 293,
+        "noise": 0.782296,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:52.626Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48.4,
+        "airQuality": 293,
+        "noise": 0.782296,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:52.626Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48.4,
+        "airQuality": 293,
+        "noise": 0.782296,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:52.626Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 48.4,
+        "airQuality": 293,
+        "noise": 0.782296,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:57.745Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.4,
+        "airQuality": 368,
+        "noise": 1,
+        "light": 875
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:57.745Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.4,
+        "airQuality": 368,
+        "noise": 1,
+        "light": 875
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:57.745Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.4,
+        "airQuality": 368,
+        "noise": 1,
+        "light": 875
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:49:57.745Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.4,
+        "airQuality": 368,
+        "noise": 1,
+        "light": 875
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:03.468Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.6,
+        "airQuality": 254,
+        "noise": 0.909869,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:03.468Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.6,
+        "airQuality": 254,
+        "noise": 0.909869,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:03.468Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.6,
+        "airQuality": 254,
+        "noise": 0.909869,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:03.469Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.6,
+        "airQuality": 254,
+        "noise": 0.909869,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:07.989Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 48.8,
+        "airQuality": 208,
+        "noise": 1,
+        "light": 592
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:07.990Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 48.8,
+        "airQuality": 208,
+        "noise": 1,
+        "light": 592
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:07.990Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 48.8,
+        "airQuality": 208,
+        "noise": 1,
+        "light": 592
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:07.990Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 48.8,
+        "airQuality": 208,
+        "noise": 1,
+        "light": 592
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:12.799Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 48.9,
+        "airQuality": 297,
+        "noise": 1,
+        "light": 975
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:12.800Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 48.9,
+        "airQuality": 297,
+        "noise": 1,
+        "light": 975
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:12.800Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 48.9,
+        "airQuality": 297,
+        "noise": 1,
+        "light": 975
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:12.800Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 48.9,
+        "airQuality": 297,
+        "noise": 1,
+        "light": 975
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:17.815Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.9,
+        "airQuality": 304,
+        "noise": 0.700402,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:17.816Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.9,
+        "airQuality": 304,
+        "noise": 0.700402,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:17.816Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.9,
+        "airQuality": 304,
+        "noise": 0.700402,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:17.816Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.9,
+        "airQuality": 304,
+        "noise": 0.700402,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:22.833Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.8,
+        "airQuality": 257,
+        "noise": 0.861592,
+        "light": 393
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:22.833Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.8,
+        "airQuality": 257,
+        "noise": 0.861592,
+        "light": 393
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:22.833Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.8,
+        "airQuality": 257,
+        "noise": 0.861592,
+        "light": 393
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:22.834Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 48.8,
+        "airQuality": 257,
+        "noise": 0.861592,
+        "light": 393
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:28.116Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 48.7,
+        "airQuality": 287,
+        "noise": 0.881862,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:28.117Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 48.7,
+        "airQuality": 287,
+        "noise": 0.881862,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:28.117Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 48.7,
+        "airQuality": 287,
+        "noise": 0.881862,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:28.117Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 48.7,
+        "airQuality": 287,
+        "noise": 0.881862,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:32.856Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.3,
+        "airQuality": 317,
+        "noise": 0.695977,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:32.857Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.3,
+        "airQuality": 317,
+        "noise": 0.695977,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:32.857Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.3,
+        "airQuality": 317,
+        "noise": 0.695977,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:32.858Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.3,
+        "airQuality": 317,
+        "noise": 0.695977,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:38.000Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.6,
+        "airQuality": 227,
+        "noise": 0.674403,
+        "light": 780
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:38.000Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.6,
+        "airQuality": 227,
+        "noise": 0.674403,
+        "light": 780
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:38.000Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.6,
+        "airQuality": 227,
+        "noise": 0.674403,
+        "light": 780
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:38.000Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.6,
+        "airQuality": 227,
+        "noise": 0.674403,
+        "light": 780
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:42.904Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.3,
+        "airQuality": 355,
+        "noise": 0.750532,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:42.904Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.3,
+        "airQuality": 355,
+        "noise": 0.750532,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:42.904Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.3,
+        "airQuality": 355,
+        "noise": 0.750532,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:42.905Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.3,
+        "airQuality": 355,
+        "noise": 0.750532,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:49.560Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 48.9,
+        "airQuality": 256,
+        "noise": 1,
+        "light": 859
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:49.561Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 48.9,
+        "airQuality": 256,
+        "noise": 1,
+        "light": 859
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:49.561Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 48.9,
+        "airQuality": 256,
+        "noise": 1,
+        "light": 859
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:49.561Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 48.9,
+        "airQuality": 256,
+        "noise": 1,
+        "light": 859
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:52.940Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 49.1,
+        "airQuality": 289,
+        "noise": 0.915199,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:52.940Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 49.1,
+        "airQuality": 289,
+        "noise": 0.915199,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:52.940Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 49.1,
+        "airQuality": 289,
+        "noise": 0.915199,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:52.941Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 49.1,
+        "airQuality": 289,
+        "noise": 0.915199,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:58.003Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.2,
+        "airQuality": 353,
+        "noise": 0.969803,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:58.005Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.2,
+        "airQuality": 353,
+        "noise": 0.969803,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:58.005Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.2,
+        "airQuality": 353,
+        "noise": 0.969803,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:50:58.005Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.2,
+        "airQuality": 353,
+        "noise": 0.969803,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:02.999Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.3,
+        "airQuality": 322,
+        "noise": 0.678144,
+        "light": 120
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:03.000Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.3,
+        "airQuality": 322,
+        "noise": 0.678144,
+        "light": 120
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:03.000Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.3,
+        "airQuality": 322,
+        "noise": 0.678144,
+        "light": 120
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:03.000Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.3,
+        "airQuality": 322,
+        "noise": 0.678144,
+        "light": 120
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.504Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 355,
+        "noise": 0.530824,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.505Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 355,
+        "noise": 0.530824,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.505Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 355,
+        "noise": 0.530824,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.505Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 355,
+        "noise": 0.530824,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.868Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.6,
+        "airQuality": 240,
+        "noise": 1,
+        "light": 561
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.869Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.6,
+        "airQuality": 240,
+        "noise": 1,
+        "light": 561
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.869Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.6,
+        "airQuality": 240,
+        "noise": 1,
+        "light": 561
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.869Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.6,
+        "airQuality": 240,
+        "noise": 1,
+        "light": 561
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.870Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 248,
+        "noise": 0.932632,
+        "light": 379
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.870Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 248,
+        "noise": 0.932632,
+        "light": 379
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.870Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 248,
+        "noise": 0.932632,
+        "light": 379
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.870Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 248,
+        "noise": 0.932632,
+        "light": 379
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.871Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.6,
+        "airQuality": 269,
+        "noise": 1,
+        "light": 315
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.871Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.6,
+        "airQuality": 269,
+        "noise": 1,
+        "light": 315
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.871Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.6,
+        "airQuality": 269,
+        "noise": 1,
+        "light": 315
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:25.871Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.6,
+        "airQuality": 269,
+        "noise": 1,
+        "light": 315
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:28.265Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.5,
+        "airQuality": 278,
+        "noise": 0.792177,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:28.266Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.5,
+        "airQuality": 278,
+        "noise": 0.792177,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:28.266Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.5,
+        "airQuality": 278,
+        "noise": 0.792177,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:28.266Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.5,
+        "airQuality": 278,
+        "noise": 0.792177,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:33.185Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.4,
+        "airQuality": 322,
+        "noise": 0.922147,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:33.185Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.4,
+        "airQuality": 322,
+        "noise": 0.922147,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:33.185Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.4,
+        "airQuality": 322,
+        "noise": 0.922147,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:33.185Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.4,
+        "airQuality": 322,
+        "noise": 0.922147,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:38.202Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.5,
+        "airQuality": 304,
+        "noise": 0.935893,
+        "light": 19
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:38.203Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.5,
+        "airQuality": 304,
+        "noise": 0.935893,
+        "light": 19
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:38.203Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.5,
+        "airQuality": 304,
+        "noise": 0.935893,
+        "light": 19
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:38.203Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.5,
+        "airQuality": 304,
+        "noise": 0.935893,
+        "light": 19
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:43.356Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 306,
+        "noise": 0.686257,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:43.356Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 306,
+        "noise": 0.686257,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:43.356Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 306,
+        "noise": 0.686257,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:43.357Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 306,
+        "noise": 0.686257,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:48.192Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.5,
+        "airQuality": 318,
+        "noise": 0.70532,
+        "light": 35
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:48.192Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.5,
+        "airQuality": 318,
+        "noise": 0.70532,
+        "light": 35
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:48.192Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.5,
+        "airQuality": 318,
+        "noise": 0.70532,
+        "light": 35
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:48.193Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23,
+        "humidity": 49.5,
+        "airQuality": 318,
+        "noise": 0.70532,
+        "light": 35
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:53.255Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 304,
+        "noise": 0.58339,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:53.256Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 304,
+        "noise": 0.58339,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:53.256Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 304,
+        "noise": 0.58339,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:53.256Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 304,
+        "noise": 0.58339,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:58.376Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 50.2,
+        "airQuality": 192,
+        "noise": 1,
+        "light": 304
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:58.376Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 50.2,
+        "airQuality": 192,
+        "noise": 1,
+        "light": 304
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:58.376Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 50.2,
+        "airQuality": 192,
+        "noise": 1,
+        "light": 304
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:51:58.377Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 50.2,
+        "airQuality": 192,
+        "noise": 1,
+        "light": 304
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:03.287Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 458,
+        "noise": 1,
+        "light": 1257
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:03.288Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 458,
+        "noise": 1,
+        "light": 1257
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:03.288Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 458,
+        "noise": 1,
+        "light": 1257
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:03.288Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.7,
+        "airQuality": 458,
+        "noise": 1,
+        "light": 1257
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:08.312Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.8,
+        "airQuality": 267,
+        "noise": 0.690005,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:08.312Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.8,
+        "airQuality": 267,
+        "noise": 0.690005,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:08.312Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.8,
+        "airQuality": 267,
+        "noise": 0.690005,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:08.312Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.8,
+        "airQuality": 267,
+        "noise": 0.690005,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:13.361Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.6,
+        "airQuality": 286,
+        "noise": 0.502337,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:13.361Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.6,
+        "airQuality": 286,
+        "noise": 0.502337,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:13.361Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.6,
+        "airQuality": 286,
+        "noise": 0.502337,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:13.361Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.6,
+        "airQuality": 286,
+        "noise": 0.502337,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:23.348Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.7,
+        "airQuality": 351,
+        "noise": 0.604513,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:23.348Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.7,
+        "airQuality": 351,
+        "noise": 0.604513,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:23.349Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.7,
+        "airQuality": 351,
+        "noise": 0.604513,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:23.349Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.7,
+        "airQuality": 351,
+        "noise": 0.604513,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.079Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 303,
+        "noise": 1,
+        "light": 591
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.080Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 303,
+        "noise": 1,
+        "light": 591
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.080Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 303,
+        "noise": 1,
+        "light": 591
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.080Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 303,
+        "noise": 1,
+        "light": 591
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.235Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.7,
+        "airQuality": 272,
+        "noise": 0.578226,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.235Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.7,
+        "airQuality": 272,
+        "noise": 0.578226,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.235Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.7,
+        "airQuality": 272,
+        "noise": 0.578226,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.236Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.7,
+        "airQuality": 272,
+        "noise": 0.578226,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.236Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.8,
+        "airQuality": 259,
+        "noise": 0.994289,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.237Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.8,
+        "airQuality": 259,
+        "noise": 0.994289,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.237Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.8,
+        "airQuality": 259,
+        "noise": 0.994289,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.237Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.8,
+        "airQuality": 259,
+        "noise": 0.994289,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.238Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 290,
+        "noise": 0.681851,
+        "light": 375
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.238Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 290,
+        "noise": 0.681851,
+        "light": 375
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.238Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 290,
+        "noise": 0.681851,
+        "light": 375
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:41.238Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.1,
+        "humidity": 49.4,
+        "airQuality": 290,
+        "noise": 0.681851,
+        "light": 375
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:46.915Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.3,
+        "airQuality": 339,
+        "noise": 0.69095,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:46.916Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.3,
+        "airQuality": 339,
+        "noise": 0.69095,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:46.916Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.3,
+        "airQuality": 339,
+        "noise": 0.69095,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:46.916Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.2,
+        "humidity": 49.3,
+        "airQuality": 339,
+        "noise": 0.69095,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:48.570Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.5,
+        "airQuality": 365,
+        "noise": 0.577929,
+        "light": 212
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:48.571Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.5,
+        "airQuality": 365,
+        "noise": 0.577929,
+        "light": 212
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:48.571Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.5,
+        "airQuality": 365,
+        "noise": 0.577929,
+        "light": 212
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:48.571Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.3,
+        "humidity": 49.5,
+        "airQuality": 365,
+        "noise": 0.577929,
+        "light": 212
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:53.529Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 50.1,
+        "airQuality": 309,
+        "noise": 1,
+        "light": 682
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:53.529Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 50.1,
+        "airQuality": 309,
+        "noise": 1,
+        "light": 682
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:53.530Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 50.1,
+        "airQuality": 309,
+        "noise": 1,
+        "light": 682
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:53.530Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 50.1,
+        "airQuality": 309,
+        "noise": 1,
+        "light": 682
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:59.003Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 50,
+        "airQuality": 288,
+        "noise": 1,
+        "light": 877
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:59.003Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 50,
+        "airQuality": 288,
+        "noise": 1,
+        "light": 877
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:59.004Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 50,
+        "airQuality": 288,
+        "noise": 1,
+        "light": 877
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:52:59.004Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 50,
+        "airQuality": 288,
+        "noise": 1,
+        "light": 877
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:03.709Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 50.3,
+        "airQuality": 134,
+        "noise": 0.537421,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:03.709Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 50.3,
+        "airQuality": 134,
+        "noise": 0.537421,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:03.709Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 50.3,
+        "airQuality": 134,
+        "noise": 0.537421,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:03.709Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.4,
+        "humidity": 50.3,
+        "airQuality": 134,
+        "noise": 0.537421,
+        "light": 384
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:08.624Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 51.1,
+        "airQuality": 355,
+        "noise": 0.573212,
+        "light": 383
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:08.624Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 51.1,
+        "airQuality": 355,
+        "noise": 0.573212,
+        "light": 383
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:08.625Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 51.1,
+        "airQuality": 355,
+        "noise": 0.573212,
+        "light": 383
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:08.625Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 51.1,
+        "airQuality": 355,
+        "noise": 0.573212,
+        "light": 383
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:15.639Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 51.2,
+        "airQuality": 265,
+        "noise": 0.735076,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:15.640Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 51.2,
+        "airQuality": 265,
+        "noise": 0.735076,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:15.640Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 51.2,
+        "airQuality": 265,
+        "noise": 0.735076,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:15.640Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.5,
+        "humidity": 51.2,
+        "airQuality": 265,
+        "noise": 0.735076,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:18.660Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 50.6,
+        "airQuality": 232,
+        "noise": 0.887617,
+        "light": 566
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:18.661Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 50.6,
+        "airQuality": 232,
+        "noise": 0.887617,
+        "light": 566
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:18.661Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 50.6,
+        "airQuality": 232,
+        "noise": 0.887617,
+        "light": 566
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:18.661Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 50.6,
+        "airQuality": 232,
+        "noise": 0.887617,
+        "light": 566
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:23.838Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 50.1,
+        "airQuality": 466,
+        "noise": 1,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:23.838Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 50.1,
+        "airQuality": 466,
+        "noise": 1,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:23.839Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 50.1,
+        "airQuality": 466,
+        "noise": 1,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:23.839Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 50.1,
+        "airQuality": 466,
+        "noise": 1,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.906Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 49.8,
+        "airQuality": 297,
+        "noise": 0.917478,
+        "light": 381
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.906Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 49.8,
+        "airQuality": 297,
+        "noise": 0.917478,
+        "light": 381
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.906Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 49.8,
+        "airQuality": 297,
+        "noise": 0.917478,
+        "light": 381
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.907Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 49.8,
+        "airQuality": 297,
+        "noise": 0.917478,
+        "light": 381
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.907Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 49.4,
+        "airQuality": 223,
+        "noise": 1,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.907Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 49.4,
+        "airQuality": 223,
+        "noise": 1,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.908Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 49.4,
+        "airQuality": 223,
+        "noise": 1,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.908Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.8,
+        "humidity": 49.4,
+        "airQuality": 223,
+        "noise": 1,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.908Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 49.4,
+        "airQuality": 184,
+        "noise": 1,
+        "light": 336
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.909Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 49.4,
+        "airQuality": 184,
+        "noise": 1,
+        "light": 336
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.909Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 49.4,
+        "airQuality": 184,
+        "noise": 1,
+        "light": 336
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:41.909Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 49.4,
+        "airQuality": 184,
+        "noise": 1,
+        "light": 336
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:44.261Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 49.2,
+        "airQuality": 250,
+        "noise": 0.461648,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:44.261Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 49.2,
+        "airQuality": 250,
+        "noise": 0.461648,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:44.261Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 49.2,
+        "airQuality": 250,
+        "noise": 0.461648,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:44.262Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.6,
+        "humidity": 49.2,
+        "airQuality": 250,
+        "noise": 0.461648,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:51.014Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 48.9,
+        "airQuality": 298,
+        "noise": 0.674171,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:51.014Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 48.9,
+        "airQuality": 298,
+        "noise": 0.674171,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:51.015Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 48.9,
+        "airQuality": 298,
+        "noise": 0.674171,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:51.015Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 48.9,
+        "airQuality": 298,
+        "noise": 0.674171,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:53.889Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 49.3,
+        "airQuality": 277,
+        "noise": 0.766987,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:53.889Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 49.3,
+        "airQuality": 277,
+        "noise": 0.766987,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:53.889Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 49.3,
+        "airQuality": 277,
+        "noise": 0.766987,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T11:53:53.890Z",
+      "id": "L17312123412",
+      "name": "Vale das Flores",
+      "sensors": {
+        "temperature": 23.7,
+        "humidity": 49.3,
+        "airQuality": 277,
+        "noise": 0.766987,
+        "light": 17
+      }
+    }
+  ]
+}

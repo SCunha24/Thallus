@@ -1,0 +1,17 @@
+{
+  "name": "urbansense",
+  "version": "1.0.0",
+  "description": "UrbanSense - interface de monitorização urbana (servidor estático)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

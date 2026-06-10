@@ -1,0 +1,44 @@
+{
+  "locations": [
+    {
+      "id": "loc_1",
+      "name": "Parque Verde",
+      "code": "PV-001",
+      "image": "data/parqueVerde.webp",
+      "x": 51,
+      "y": 50
+    },
+    {
+      "id": "loc_2",
+      "name": "Polo II",
+      "code": "RP-001",
+      "image": "data/polo2.jpg",
+      "x": 65,
+      "y": 73
+    },
+    {
+      "id": "loc_3",
+      "name": "Vale das Flores",
+      "code": "SH-001",
+      "image": "data/valeDasFlores.jpg",
+      "x": 65,
+      "y": 55
+    },
+    {
+      "id": "loc_4",
+      "name": "Santa Clara",
+      "code": "SH-001",
+      "image": "data/SantaClara.jpg",
+      "x": 41,
+      "y": 36
+    },
+    {
+      "id": "loc_5",
+      "name": "Estádio",
+      "code": "SH-001",
+      "image": "data/estadio.webp",
+      "x": 67,
+      "y": 44
+    }
+  ]
+}

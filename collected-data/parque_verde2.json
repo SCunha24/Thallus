@@ -1,0 +1,7556 @@
+{
+  "name": "Parque Verde",
+  "total_readings": 629,
+  "first_reading": "2026-06-02T10:48:01.383Z",
+  "last_reading": "2026-06-02T10:49:17.562Z",
+  "readings": [
+    {
+      "timestamp": "2026-06-02T10:48:01.383Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 368,
+        "noise": 0.459278,
+        "light": 26
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:01.919Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 155,
+        "noise": 0.434267,
+        "light": 747
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:01.919Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 338,
+        "noise": 0.430567,
+        "light": 529
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:01.921Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 433,
+        "noise": 0.39351,
+        "light": 736
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:01.921Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 371,
+        "noise": 0.349996,
+        "light": 375
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.099Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 402,
+        "noise": 0.396829,
+        "light": 405
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.100Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 395,
+        "noise": 0.441634,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.100Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 410,
+        "noise": 0.469061,
+        "light": 1107
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.101Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 359,
+        "noise": 0.523217,
+        "light": 934
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.101Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 409,
+        "noise": 0.531507,
+        "light": 756
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.301Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 363,
+        "noise": 0.414322,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.834Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 93,
+        "noise": 0.426569,
+        "light": 729
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.835Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 426,
+        "noise": 0.403868,
+        "light": 921
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.835Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 134,
+        "noise": 0.373169,
+        "light": 573
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.836Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 405,
+        "noise": 0.44734,
+        "light": 551
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:02.836Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 45.2,
+        "airQuality": 370,
+        "noise": 0.495245,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.030Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 384,
+        "noise": 0.550796,
+        "light": 0
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.030Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 368,
+        "noise": 0.505499,
+        "light": 195
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.031Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 348,
+        "noise": 0.354665,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.031Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 144,
+        "noise": 0.427908,
+        "light": 747
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.541Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 400,
+        "noise": 0.469375,
+        "light": 561
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.907Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 275,
+        "noise": 0.407971,
+        "light": 559
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.907Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 273,
+        "noise": 0.443931,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.908Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 375,
+        "noise": 0.477204,
+        "light": 748
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.908Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 368,
+        "noise": 0.50716,
+        "light": 748
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:03.908Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 430,
+        "noise": 0.508171,
+        "light": 485
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:04.101Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 363,
+        "noise": 0.445072,
+        "light": 553
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:04.102Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 401,
+        "noise": 0.403334,
+        "light": 485
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:04.102Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 343,
+        "noise": 0.41381,
+        "light": 942
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:04.102Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 365,
+        "noise": 0.482443,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:04.103Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 368,
+        "noise": 0.543724,
+        "light": 746
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.003Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 351,
+        "noise": 0.547319,
+        "light": 380
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.003Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 320,
+        "noise": 0.528767,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.004Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.6,
+        "humidity": 46.5,
+        "airQuality": 349,
+        "noise": 0.421516,
+        "light": 566
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.004Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 407,
+        "noise": 0.357777,
+        "light": 37
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.005Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 371,
+        "noise": 0.483937,
+        "light": 391
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.005Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 507,
+        "noise": 0.508079,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.005Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 312,
+        "noise": 0.455575,
+        "light": 495
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.634Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 414,
+        "noise": 0.461003,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.635Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 413,
+        "noise": 0.530568,
+        "light": 198
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:05.635Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 448,
+        "noise": 0.423376,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.101Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 343,
+        "noise": 0.468014,
+        "light": 731
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.102Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 350,
+        "noise": 0.38759,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.102Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 260,
+        "noise": 0.458736,
+        "light": 396
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.102Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 404,
+        "noise": 0.508813,
+        "light": 747
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.103Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 415,
+        "noise": 0.443816,
+        "light": 1136
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.103Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 304,
+        "noise": 0.430567,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.747Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 405,
+        "noise": 0.381665,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.748Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 438,
+        "noise": 0.389296,
+        "light": 933
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.748Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 406,
+        "noise": 0.428151,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:06.749Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.5,
+        "humidity": 47.1,
+        "airQuality": 391,
+        "noise": 0.4453,
+        "light": 393
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.434Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 383,
+        "noise": 0.499331,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.434Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 832,
+        "noise": 0.419642,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.435Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 371,
+        "noise": 0.418763,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.435Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 369,
+        "noise": 0.473522,
+        "light": 749
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.751Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 380,
+        "noise": 0.522692,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.751Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 410,
+        "noise": 0.505869,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.752Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 386,
+        "noise": 0.480941,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.752Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 656,
+        "noise": 0.424978,
+        "light": 1309
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:07.753Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 448,
+        "noise": 0.420143,
+        "light": 763
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.075Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 396,
+        "noise": 0.464849,
+        "light": 690
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.469Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 375,
+        "noise": 0.476492,
+        "light": 0
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.469Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 402,
+        "noise": 0.478523,
+        "light": 764
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.469Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 414,
+        "noise": 0.485423,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.470Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 384,
+        "noise": 0.585799,
+        "light": 744
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.470Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 370,
+        "noise": 0.530226,
+        "light": 933
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.880Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 383,
+        "noise": 0.460142,
+        "light": 1123
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.881Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 403,
+        "noise": 0.550957,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.881Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 433,
+        "noise": 0.595276,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.881Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.9,
+        "airQuality": 425,
+        "noise": 0.596408,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:08.882Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 443,
+        "noise": 0.522341,
+        "light": 39
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:09.799Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 410,
+        "noise": 0.380197,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:09.799Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 393,
+        "noise": 0.352177,
+        "light": 1143
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:09.800Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 407,
+        "noise": 0.473728,
+        "light": 583
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:09.800Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 418,
+        "noise": 0.349321,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:09.800Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 481,
+        "noise": 0.429241,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.209Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 304,
+        "noise": 0.432364,
+        "light": 378
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.210Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 505,
+        "noise": 0.355324,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.210Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 419,
+        "noise": 0.348474,
+        "light": 693
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.210Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 395,
+        "noise": 0.468957,
+        "light": 539
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.210Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 406,
+        "noise": 0.525657,
+        "light": 297
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.924Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 418,
+        "noise": 0.544135,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.925Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 409,
+        "noise": 0.524178,
+        "light": 927
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.925Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 432,
+        "noise": 0.454146,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.926Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 467,
+        "noise": 0.365605,
+        "light": 547
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:10.926Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 447,
+        "noise": 0.398608,
+        "light": 15
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:11.215Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 417,
+        "noise": 0.341572,
+        "light": 736
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:11.215Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 427,
+        "noise": 0.322662,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:11.216Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 368,
+        "noise": 0.355324,
+        "light": 727
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:11.642Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 390,
+        "noise": 0.514258,
+        "light": 13
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:11.643Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 372,
+        "noise": 0.419266,
+        "light": 739
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.154Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 391,
+        "noise": 0.537672,
+        "light": 378
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.154Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 392,
+        "noise": 0.530568,
+        "light": 394
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.154Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 654,
+        "noise": 0.370266,
+        "light": 734
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.155Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 425,
+        "noise": 0.443244,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.155Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 430,
+        "noise": 0.459926,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.155Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 432,
+        "noise": 0.512182,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.156Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 841,
+        "noise": 0.703813,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.358Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 272,
+        "noise": 0.76076,
+        "light": 572
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.359Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 338,
+        "noise": 0.573212,
+        "light": 223
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:12.486Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 397,
+        "noise": 0.496486,
+        "light": 763
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:13.445Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 397,
+        "noise": 0.465485,
+        "light": 923
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:13.445Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 388,
+        "noise": 0.510729,
+        "light": 387
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:13.446Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 368,
+        "noise": 0.446095,
+        "light": 588
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:13.446Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 448,
+        "noise": 0.398471,
+        "light": 571
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:13.447Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 437,
+        "noise": 0.408364,
+        "light": 38
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:13.998Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 366,
+        "noise": 0.421765,
+        "light": 580
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:13.998Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 352,
+        "noise": 0.45656,
+        "light": 144
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:13.999Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 400,
+        "noise": 0.414961,
+        "light": 756
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.000Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 309,
+        "noise": 0.485028,
+        "light": 939
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.000Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 369,
+        "noise": 0.524527,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.702Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 368,
+        "noise": 0.461326,
+        "light": 246
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.703Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 0,
+        "noise": 0.651884,
+        "light": 387
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.704Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 0,
+        "noise": 0.487982,
+        "light": 571
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.704Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 395,
+        "noise": 0.602573,
+        "light": 557
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.704Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 67,
+        "noise": 0.586816,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.705Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 376,
+        "noise": 0.388302,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.705Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 407,
+        "noise": 0.37423,
+        "light": 915
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:14.705Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 336,
+        "noise": 0.424609,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:15.841Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 384,
+        "noise": 0.356636,
+        "light": 571
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:15.841Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 55,
+        "noise": 0.438268,
+        "light": 22
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:15.945Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 397,
+        "noise": 0.645291,
+        "light": 351
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:15.945Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 373,
+        "noise": 0.590712,
+        "light": 396
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:15.945Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 344,
+        "noise": 0.735779,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:15.946Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 432,
+        "noise": 0.649309,
+        "light": 1153
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:15.946Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 400,
+        "noise": 0.759285,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:15.946Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 435,
+        "noise": 0.593357,
+        "light": 932
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:16.330Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 414,
+        "noise": 0.717976,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:16.330Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 417,
+        "noise": 0.62094,
+        "light": 373
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:16.331Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 279,
+        "noise": 0.473933,
+        "light": 907
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:16.331Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 390,
+        "noise": 0.611292,
+        "light": 771
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.186Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 422,
+        "noise": 0.726711,
+        "light": 387
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.186Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 412,
+        "noise": 0.517391,
+        "light": 935
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.187Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.7,
+        "humidity": 46.5,
+        "airQuality": 366,
+        "noise": 0.364819,
+        "light": 753
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.187Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 367,
+        "noise": 0.543806,
+        "light": 359
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.187Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 386,
+        "noise": 0.519257,
+        "light": 395
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.188Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 384,
+        "noise": 0.510638,
+        "light": 747
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.188Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 418,
+        "noise": 0.639029,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.479Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 383,
+        "noise": 0.741014,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.480Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 389,
+        "noise": 0.607678,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:17.480Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 442,
+        "noise": 0.726762,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.525Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 317,
+        "noise": 0.614468,
+        "light": 719
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.526Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 400,
+        "noise": 0.76076,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.526Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 335,
+        "noise": 0.59485,
+        "light": 922
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.526Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 282,
+        "noise": 0.54356,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.527Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 341,
+        "noise": 0.575316,
+        "light": 749
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.527Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 344,
+        "noise": 0.533038,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.965Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 317,
+        "noise": 0.466119,
+        "light": 573
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.965Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 339,
+        "noise": 0.518281,
+        "light": 951
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.966Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 366,
+        "noise": 0.587685,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:18.966Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 45.1,
+        "airQuality": 353,
+        "noise": 0.682418,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:19.792Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 368,
+        "noise": 0.578672,
+        "light": 771
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:19.793Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 382,
+        "noise": 0.785282,
+        "light": 955
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:19.793Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 354,
+        "noise": 0.774565,
+        "light": 764
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:19.794Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 387,
+        "noise": 0.51837,
+        "light": 759
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:19.794Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 380,
+        "noise": 0.678602,
+        "light": 917
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:20.243Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 371,
+        "noise": 0.890342,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:20.244Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 329,
+        "noise": 0.410583,
+        "light": 573
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:20.244Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 379,
+        "noise": 0.633882,
+        "light": 923
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:20.245Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 381,
+        "noise": 0.519522,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:20.245Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 310,
+        "noise": 0.49371,
+        "light": 306
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:20.859Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 371,
+        "noise": 0.529797,
+        "light": 934
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:20.860Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 368,
+        "noise": 0.401723,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:20.860Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 331,
+        "noise": 0.520494,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.267Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 124,
+        "noise": 0.593713,
+        "light": 387
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.268Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.5,
+        "airQuality": 400,
+        "noise": 0.456778,
+        "light": 1119
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.268Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 426,
+        "noise": 0.609182,
+        "light": 144
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.268Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 379,
+        "noise": 0.633882,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.269Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 397,
+        "noise": 0.457867,
+        "light": 369
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.685Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 444,
+        "noise": 0.690728,
+        "light": 217
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.686Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 433,
+        "noise": 0.653895,
+        "light": 571
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.973Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 292,
+        "noise": 0.611902,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.974Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 352,
+        "noise": 0.492071,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.974Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 414,
+        "noise": 0.718706,
+        "light": 946
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:21.974Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 425,
+        "noise": 0.610545,
+        "light": 1124
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:22.314Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 310,
+        "noise": 0.451488,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:22.315Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 403,
+        "noise": 0.486509,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:22.315Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 362,
+        "noise": 0.45765,
+        "light": 734
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:22.316Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 352,
+        "noise": 0.449029,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:22.316Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 403,
+        "noise": 0.426935,
+        "light": 369
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:22.804Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 419,
+        "noise": 0.448468,
+        "light": 763
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.008Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 533,
+        "noise": 0.462719,
+        "light": 745
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.009Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 403,
+        "noise": 0.687659,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.009Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 416,
+        "noise": 0.777874,
+        "light": 753
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.009Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 370,
+        "noise": 0.692337,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.009Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 347,
+        "noise": 0.94246,
+        "light": 564
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.010Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 345,
+        "noise": 0.730735,
+        "light": 163
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.385Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 337,
+        "noise": 0.687659,
+        "light": 347
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.386Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 399,
+        "noise": 0.447227,
+        "light": 765
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.386Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 367,
+        "noise": 0.639282,
+        "light": 1127
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:23.727Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 393,
+        "noise": 0.679973,
+        "light": 903
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.136Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 347,
+        "noise": 0.765203,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.136Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 355,
+        "noise": 0.86426,
+        "light": 582
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.137Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 339,
+        "noise": 0.654199,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.137Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 351,
+        "noise": 0.401992,
+        "light": 945
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.137Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 395,
+        "noise": 0.515515,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.750Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 450,
+        "noise": 0.596478,
+        "light": 380
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.751Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 139,
+        "noise": 0.85007,
+        "light": 656
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.751Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 399,
+        "noise": 0.714728,
+        "light": 473
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.752Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 527,
+        "noise": 0.599713,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:24.752Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 368,
+        "noise": 0.579635,
+        "light": 930
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.057Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 394,
+        "noise": 0.569271,
+        "light": 922
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.058Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 420,
+        "noise": 0.608431,
+        "light": 778
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.058Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 368,
+        "noise": 0.677283,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.058Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.4,
+        "airQuality": 419,
+        "noise": 0.712461,
+        "light": 949
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.059Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 419,
+        "noise": 0.613525,
+        "light": 137
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.287Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 379,
+        "noise": 0.555192,
+        "light": 780
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.287Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 361,
+        "noise": 0.414706,
+        "light": 558
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.288Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 391,
+        "noise": 0.707464,
+        "light": 943
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.775Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 358,
+        "noise": 0.817646,
+        "light": 913
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:25.775Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 363,
+        "noise": 0.703381,
+        "light": 389
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.187Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 463,
+        "noise": 0.454586,
+        "light": 943
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.188Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 355,
+        "noise": 0.513988,
+        "light": 757
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.189Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 415,
+        "noise": 0.349828,
+        "light": 577
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.189Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 340,
+        "noise": 0.565361,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.189Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 391,
+        "noise": 0.514258,
+        "light": 545
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.190Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 533,
+        "noise": 0.496105,
+        "light": 917
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.593Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 368,
+        "noise": 0.500085,
+        "light": 586
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.594Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 449,
+        "noise": 0.41381,
+        "light": 394
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.594Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 422,
+        "noise": 0.483738,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:26.595Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 406,
+        "noise": 0.416108,
+        "light": 591
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:27.515Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 422,
+        "noise": 0.575541,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:27.516Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 416,
+        "noise": 0.700402,
+        "light": 32
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:27.517Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 400,
+        "noise": 0.55796,
+        "light": 32
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:27.517Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 442,
+        "noise": 0.480137,
+        "light": 742
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:27.517Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 448,
+        "noise": 0.698496,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:27.518Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 418,
+        "noise": 0.573664,
+        "light": 766
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:27.518Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 368,
+        "noise": 0.691672,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:28.232Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 339,
+        "noise": 0.566208,
+        "light": 757
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:28.233Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 343,
+        "noise": 0.593856,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:28.233Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 390,
+        "noise": 0.718863,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.134Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 334,
+        "noise": 0.761234,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.134Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 402,
+        "noise": 0.619349,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.135Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 498,
+        "noise": 0.510092,
+        "light": 1138
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.136Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 425,
+        "noise": 0.730126,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.136Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 213,
+        "noise": 0.798757,
+        "light": 763
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.136Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 474,
+        "noise": 0.677283,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.137Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 377,
+        "noise": 0.691117,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.137Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 355,
+        "noise": 0.427057,
+        "light": 591
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.460Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.3,
+        "airQuality": 364,
+        "noise": 0.56008,
+        "light": 753
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:29.461Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 399,
+        "noise": 0.832006,
+        "light": 378
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.411Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 386,
+        "noise": 0.453925,
+        "light": 587
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.411Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 400,
+        "noise": 0.565516,
+        "light": 786
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.411Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 415,
+        "noise": 0.556143,
+        "light": 1137
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.412Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 421,
+        "noise": 0.548374,
+        "light": 933
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.412Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 432,
+        "noise": 0.578226,
+        "light": 505
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.413Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 435,
+        "noise": 0.58251,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.414Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 429,
+        "noise": 0.742746,
+        "light": 930
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.414Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 488,
+        "noise": 0.78275,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.810Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 339,
+        "noise": 0.498386,
+        "light": 931
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:30.810Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.8,
+        "humidity": 46.2,
+        "airQuality": 385,
+        "noise": 0.791465,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:31.714Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 397,
+        "noise": 0.54991,
+        "light": 1137
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:31.714Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 423,
+        "noise": 0.616816,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:31.714Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 441,
+        "noise": 0.616883,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:31.715Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 445,
+        "noise": 0.601459,
+        "light": 941
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:31.715Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 349,
+        "noise": 0.735678,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:32.122Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 391,
+        "noise": 0.537086,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:32.122Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 368,
+        "noise": 0.847886,
+        "light": 928
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:32.123Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 368,
+        "noise": 1,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:32.123Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 353,
+        "noise": 0.966599,
+        "light": 1346
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:32.123Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 506,
+        "noise": 0.943397,
+        "light": 945
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.045Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 408,
+        "noise": 0.738579,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.045Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 338,
+        "noise": 0.784334,
+        "light": 586
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.046Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 413,
+        "noise": 0.508446,
+        "light": 934
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.046Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 379,
+        "noise": 0.81315,
+        "light": 1515
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.046Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 356,
+        "noise": 0.665757,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.047Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.6,
+        "airQuality": 0,
+        "noise": 0.831965,
+        "light": 939
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.250Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 394,
+        "noise": 0.702571,
+        "light": 239
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.250Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 420,
+        "noise": 0.604444,
+        "light": 400
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.762Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 435,
+        "noise": 0.733466,
+        "light": 728
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:33.762Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 398,
+        "noise": 1,
+        "light": 48
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.099Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 383,
+        "noise": 0.601808,
+        "light": 579
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.099Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 367,
+        "noise": 0.483738,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.100Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 414,
+        "noise": 0.546831,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.100Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 463,
+        "noise": 0.565284,
+        "light": 939
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.100Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 489,
+        "noise": 0.455465,
+        "light": 388
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.480Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 368,
+        "noise": 0.412653,
+        "light": 1141
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.481Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 396,
+        "noise": 0.424363,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.482Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 400,
+        "noise": 0.420643,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.482Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 240,
+        "noise": 0.549022,
+        "light": 1134
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:34.482Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 391,
+        "noise": 0.810545,
+        "light": 976
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.114Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 437,
+        "noise": 0.44959,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.114Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 434,
+        "noise": 0.559531,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.115Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 44.8,
+        "airQuality": 368,
+        "noise": 0.563274,
+        "light": 577
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.592Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 343,
+        "noise": 0.530311,
+        "light": 131
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.592Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 410,
+        "noise": 0.749268,
+        "light": 381
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.593Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 432,
+        "noise": 0.65879,
+        "light": 202
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.593Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 404,
+        "noise": 0.592715,
+        "light": 590
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.593Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 275,
+        "noise": 0.641797,
+        "light": 763
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.919Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 400,
+        "noise": 0.505684,
+        "light": 242
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:35.920Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 433,
+        "noise": 0.715096,
+        "light": 369
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.408Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 578,
+        "noise": 0.728855,
+        "light": 977
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.409Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 454,
+        "noise": 0.575316,
+        "light": 757
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.409Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 451,
+        "noise": 0.50716,
+        "light": 1320
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.409Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 382,
+        "noise": 0.580079,
+        "light": 386
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.409Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 416,
+        "noise": 0.491296,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.410Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 10,
+        "noise": 0.793864,
+        "light": 929
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.812Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 369,
+        "noise": 0.803471,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.813Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 160,
+        "noise": 0.749365,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.813Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 0,
+        "noise": 0.640101,
+        "light": 400
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:36.813Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25,
+        "humidity": 45.6,
+        "airQuality": 665,
+        "noise": 0.463146,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:37.687Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 406,
+        "noise": 0.413425,
+        "light": 1331
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:37.688Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 365,
+        "noise": 0.464743,
+        "light": 592
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:37.688Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 349,
+        "noise": 0.419768,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:37.689Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 368,
+        "noise": 0.355981,
+        "light": 579
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:37.690Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 597,
+        "noise": 0.648139,
+        "light": 763
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:37.690Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 355,
+        "noise": 0.543149,
+        "light": 1133
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:37.691Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 401,
+        "noise": 0.362444,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.163Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 440,
+        "noise": 0.511638,
+        "light": 753
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.164Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 418,
+        "noise": 0.377382,
+        "light": 528
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.164Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 325,
+        "noise": 0.552881,
+        "light": 1126
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.991Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 386,
+        "noise": 0.46197,
+        "light": 736
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.992Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 403,
+        "noise": 0.425713,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.993Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 394,
+        "noise": 0.378274,
+        "light": 387
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.993Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 364,
+        "noise": 0.420393,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.994Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 418,
+        "noise": 0.507436,
+        "light": 1136
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:38.995Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 186,
+        "noise": 0.500556,
+        "light": 1136
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:39.407Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 322,
+        "noise": 0.489936,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:39.408Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46.1,
+        "airQuality": 407,
+        "noise": 0.412395,
+        "light": 942
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:39.408Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 396,
+        "noise": 0.434741,
+        "light": 740
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:39.409Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 460,
+        "noise": 0.569576,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:40.315Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 176,
+        "noise": 0.707892,
+        "light": 577
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:40.316Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 452,
+        "noise": 0.477204,
+        "light": 582
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:40.316Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 435,
+        "noise": 0.574566,
+        "light": 205
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:40.317Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 412,
+        "noise": 0.521639,
+        "light": 916
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:40.317Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 439,
+        "noise": 0.876386,
+        "light": 391
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:40.317Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 238,
+        "noise": 0.813363,
+        "light": 938
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.453Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 357,
+        "noise": 0.399967,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.453Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 384,
+        "noise": 0.375436,
+        "light": 573
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.454Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 216,
+        "noise": 0.420518,
+        "light": 767
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.455Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 378,
+        "noise": 0.458411,
+        "light": 940
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.544Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 427,
+        "noise": 0.453263,
+        "light": 733
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.545Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 25.9,
+        "humidity": 46,
+        "airQuality": 208,
+        "noise": 0.593713,
+        "light": 781
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.545Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 343,
+        "noise": 0.79466,
+        "light": 20
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.546Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 369,
+        "noise": 0.863372,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.546Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 373,
+        "noise": 0.818321,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.546Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 483,
+        "noise": 0.633882,
+        "light": 766
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:41.547Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 430,
+        "noise": 0.41381,
+        "light": 741
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.773Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 350,
+        "noise": 0.713201,
+        "light": 945
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.773Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 460,
+        "noise": 0.828092,
+        "light": 941
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.774Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 369,
+        "noise": 0.761945,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.978Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 230,
+        "noise": 0.55543,
+        "light": 539
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.978Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 392,
+        "noise": 0.61514,
+        "light": 748
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.979Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 0,
+        "noise": 0.477204,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.979Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 447,
+        "noise": 0.39559,
+        "light": 577
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.980Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 482,
+        "noise": 0.471663,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.980Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 359,
+        "noise": 0.495723,
+        "light": 564
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:42.980Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 388,
+        "noise": 0.44813,
+        "light": 381
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:43.284Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 371,
+        "noise": 0.406787,
+        "light": 573
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:43.284Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 402,
+        "noise": 0.379311,
+        "light": 665
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:43.285Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46,
+        "airQuality": 601,
+        "noise": 0.37768,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:43.898Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 399,
+        "noise": 0.372257,
+        "light": 546
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:43.899Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 395,
+        "noise": 0.381079,
+        "light": 930
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:43.899Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 330,
+        "noise": 0.467173,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.002Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 358,
+        "noise": 0.790975,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.002Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 336,
+        "noise": 0.766659,
+        "light": 586
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.205Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 464,
+        "noise": 0.698441,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.206Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 371,
+        "noise": 0.631959,
+        "light": 582
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.206Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 370,
+        "noise": 0.555826,
+        "light": 786
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.514Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 415,
+        "noise": 0.800508,
+        "light": 941
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.514Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 467,
+        "noise": 0.8707,
+        "light": 1115
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.912Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 511,
+        "noise": 0.560314,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.912Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 358,
+        "noise": 0.395037,
+        "light": 919
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.913Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 427,
+        "noise": 0.568049,
+        "light": 737
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.913Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 302,
+        "noise": 0.57102,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:44.914Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 447,
+        "noise": 0.5067,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:45.211Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 435,
+        "noise": 0.430687,
+        "light": 748
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:45.211Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 403,
+        "noise": 0.441172,
+        "light": 762
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:45.211Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 400,
+        "noise": 0.489936,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:45.641Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.9,
+        "airQuality": 377,
+        "noise": 0.702895,
+        "light": 21
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:45.641Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 511,
+        "noise": 0.647212,
+        "light": 390
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.050Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 395,
+        "noise": 0.58273,
+        "light": 951
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.051Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 144,
+        "noise": 0.575691,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.051Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 400,
+        "noise": 0.450485,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.051Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 392,
+        "noise": 0.548455,
+        "light": 554
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.051Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 421,
+        "noise": 0.681964,
+        "light": 940
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.250Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 366,
+        "noise": 0.386158,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.422Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 409,
+        "noise": 0.663151,
+        "light": 556
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.424Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 353,
+        "noise": 0.496009,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.425Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 366,
+        "noise": 0.572458,
+        "light": 767
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:46.425Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 368,
+        "noise": 0.458736,
+        "light": 976
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.286Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 372,
+        "noise": 0.682872,
+        "light": 738
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.287Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 422,
+        "noise": 0.704298,
+        "light": 564
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.287Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 375,
+        "noise": 0.619216,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.288Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 374,
+        "noise": 0.530397,
+        "light": 934
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.288Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 390,
+        "noise": 0.403601,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.288Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 418,
+        "noise": 0.513447,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.701Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 368,
+        "noise": 0.512996,
+        "light": 394
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.702Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 443,
+        "noise": 0.463573,
+        "light": 383
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.702Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 434,
+        "noise": 0.570184,
+        "light": 578
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:47.703Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 421,
+        "noise": 0.535152,
+        "light": 950
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:48.599Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 385,
+        "noise": 0.370727,
+        "light": 926
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:48.600Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 176,
+        "noise": 0.373169,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:48.600Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 426,
+        "noise": 0.536918,
+        "light": 572
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:48.601Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 429,
+        "noise": 0.502431,
+        "light": 571
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:48.601Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 409,
+        "noise": 0.641797,
+        "light": 914
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.057Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 346,
+        "noise": 0.733315,
+        "light": 581
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.057Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 534,
+        "noise": 0.625608,
+        "light": 741
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.058Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 400,
+        "noise": 0.521551,
+        "light": 744
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.058Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 591,
+        "noise": 0.734573,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.058Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 44.3,
+        "airQuality": 460,
+        "noise": 0.684906,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.941Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 396,
+        "noise": 0.790663,
+        "light": 736
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.942Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 368,
+        "noise": 0.496581,
+        "light": 575
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.943Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 430,
+        "noise": 0.651639,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.943Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 395,
+        "noise": 0.730583,
+        "light": 735
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.944Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 410,
+        "noise": 0.648015,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:49.944Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 447,
+        "noise": 0.524439,
+        "light": 768
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:50.268Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 400,
+        "noise": 0.546669,
+        "light": 941
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:50.269Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 410,
+        "noise": 0.507344,
+        "light": 1119
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:50.269Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 371,
+        "noise": 0.544627,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:50.269Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 368,
+        "noise": 0.444844,
+        "light": 1122
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.134Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 500,
+        "noise": 0.391833,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.134Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 450,
+        "noise": 0.383705,
+        "light": 555
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.135Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 432,
+        "noise": 0.382978,
+        "light": 577
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.135Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 375,
+        "noise": 0.569271,
+        "light": 949
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.136Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 353,
+        "noise": 0.898873,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.136Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 266,
+        "noise": 0.852954,
+        "light": 759
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.544Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 336,
+        "noise": 0.596902,
+        "light": 550
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.544Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.8,
+        "airQuality": 463,
+        "noise": 0.599713,
+        "light": 930
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.544Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 417,
+        "noise": 0.824023,
+        "light": 1317
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:51.545Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 411,
+        "noise": 0.858248,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:52.409Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 397,
+        "noise": 0.501213,
+        "light": 1284
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:52.409Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 847,
+        "noise": 0.650721,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:52.410Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 398,
+        "noise": 0.558903,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:52.410Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 400,
+        "noise": 0.439666,
+        "light": 934
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:52.410Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 442,
+        "noise": 0.495245,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:52.410Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 410,
+        "noise": 0.597818,
+        "light": 757
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:52.416Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 368,
+        "noise": 0.635223,
+        "light": 945
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.116Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 334,
+        "noise": 0.652555,
+        "light": 727
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.117Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 371,
+        "noise": 0.718498,
+        "light": 379
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.117Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 374,
+        "noise": 0.560549,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.558Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 364,
+        "noise": 0.399967,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.559Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 414,
+        "noise": 0.496867,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.560Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 349,
+        "noise": 0.556381,
+        "light": 935
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.560Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 45.7,
+        "airQuality": 374,
+        "noise": 0.521463,
+        "light": 695
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.560Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 368,
+        "noise": 0.419893,
+        "light": 24
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.561Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 464,
+        "noise": 0.374833,
+        "light": 406
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:53.561Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 413,
+        "noise": 0.457759,
+        "light": 598
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:54.107Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 399,
+        "noise": 0.498764,
+        "light": 12
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:54.108Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 382,
+        "noise": 0.596549,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:54.108Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 419,
+        "noise": 0.556302,
+        "light": 738
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:54.856Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 426,
+        "noise": 0.571323,
+        "light": 765
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:54.857Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 438,
+        "noise": 0.524701,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:54.857Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 399,
+        "noise": 0.484532,
+        "light": 747
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:54.858Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 419,
+        "noise": 0.433079,
+        "light": 566
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:54.858Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 416,
+        "noise": 0.35201,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:55.388Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 394,
+        "noise": 0.38414,
+        "light": 725
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:55.389Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 376,
+        "noise": 0.395728,
+        "light": 753
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:55.391Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 395,
+        "noise": 0.38385,
+        "light": 994
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:55.392Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 368,
+        "noise": 0.375736,
+        "light": 769
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:55.396Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 368,
+        "noise": 0.383705,
+        "light": 935
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.037Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 393,
+        "noise": 0.413553,
+        "light": 1142
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.037Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 356,
+        "noise": 0.420143,
+        "light": 739
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.038Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 402,
+        "noise": 0.457976,
+        "light": 775
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.038Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 317,
+        "noise": 0.495627,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.038Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 349,
+        "noise": 0.549264,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.496Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 352,
+        "noise": 0.528939,
+        "light": 209
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.497Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 469,
+        "noise": 0.431766,
+        "light": 943
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.497Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 357,
+        "noise": 0.453484,
+        "light": 787
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.499Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 397,
+        "noise": 0.489839,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:56.499Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 391,
+        "noise": 0.501307,
+        "light": 549
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.352Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 369,
+        "noise": 0.503084,
+        "light": 731
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.353Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 336,
+        "noise": 0.557644,
+        "light": 771
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.353Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 396,
+        "noise": 0.489741,
+        "light": 532
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.354Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 386,
+        "noise": 0.502244,
+        "light": 951
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.354Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 429,
+        "noise": 0.524003,
+        "light": 953
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.620Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 395,
+        "noise": 0.492264,
+        "light": 912
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.621Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26,
+        "humidity": 46.7,
+        "airQuality": 384,
+        "noise": 0.439084,
+        "light": 742
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.621Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 828,
+        "noise": 0.535742,
+        "light": 23
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.621Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 373,
+        "noise": 0.392533,
+        "light": 370
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:57.622Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 380,
+        "noise": 0.54009,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.568Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 364,
+        "noise": 0.416108,
+        "light": 1122
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.569Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 415,
+        "noise": 0.439549,
+        "light": 396
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.569Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 349,
+        "noise": 0.410583,
+        "light": 581
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.570Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 378,
+        "noise": 0.455355,
+        "light": 1131
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.850Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 363,
+        "noise": 0.58229,
+        "light": 553
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.851Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 208,
+        "noise": 0.65915,
+        "light": 759
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.851Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 351,
+        "noise": 0.557013,
+        "light": 951
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.851Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 384,
+        "noise": 0.481743,
+        "light": 545
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:58.852Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 381,
+        "noise": 0.611496,
+        "light": 741
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:59.224Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 407,
+        "noise": 0.645664,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:59.566Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 443,
+        "noise": 0.528423,
+        "light": 926
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:59.567Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 400,
+        "noise": 0.48808,
+        "light": 933
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:59.567Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 381,
+        "noise": 0.602156,
+        "light": 962
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:59.568Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 328,
+        "noise": 0.647768,
+        "light": 405
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:59.568Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 435,
+        "noise": 0.675788,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:48:59.568Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 278,
+        "noise": 0.5935,
+        "light": 198
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:00.104Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 374,
+        "noise": 0.620476,
+        "light": 319
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:00.105Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 385,
+        "noise": 0.547319,
+        "light": 935
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:00.105Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 418,
+        "noise": 0.503829,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:00.105Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 379,
+        "noise": 0.679973,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.206Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 381,
+        "noise": 0.388729,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.208Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 406,
+        "noise": 0.437097,
+        "light": 923
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.208Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 368,
+        "noise": 0.542325,
+        "light": 143
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.208Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 393,
+        "noise": 0.528165,
+        "light": 755
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.209Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 339,
+        "noise": 0.640227,
+        "light": 756
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.209Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 379,
+        "noise": 0.474139,
+        "light": 366
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.210Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 383,
+        "noise": 0.422262,
+        "light": 808
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.364Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 353,
+        "noise": 0.446209,
+        "light": 16
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.559Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 353,
+        "noise": 0.519964,
+        "light": 939
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:01.560Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 352,
+        "noise": 0.700348,
+        "light": 16
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.633Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 371,
+        "noise": 0.525744,
+        "light": 573
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.634Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 468,
+        "noise": 0.435332,
+        "light": 673
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.634Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 368,
+        "noise": 0.441287,
+        "light": 559
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.635Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 406,
+        "noise": 0.411749,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.635Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 410,
+        "noise": 0.4032,
+        "light": 743
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.636Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 443,
+        "noise": 0.439898,
+        "light": 379
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.636Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 423,
+        "noise": 0.616682,
+        "light": 939
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.832Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 372,
+        "noise": 0.433911,
+        "light": 383
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.832Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 368,
+        "noise": 0.566055,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:02.833Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 355,
+        "noise": 0.506608,
+        "light": 746
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:03.706Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 410,
+        "noise": 0.396966,
+        "light": 375
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:03.706Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 417,
+        "noise": 0.603613,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:03.707Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 432,
+        "noise": 0.57584,
+        "light": 545
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:03.707Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 375,
+        "noise": 0.576214,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:03.708Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 379,
+        "noise": 0.965409,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.066Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 96,
+        "noise": 0.741609,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.067Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 342,
+        "noise": 0.569118,
+        "light": 571
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.067Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 421,
+        "noise": 0.443816,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.068Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 427,
+        "noise": 0.531422,
+        "light": 380
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.425Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 550,
+        "noise": 0.511456,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.996Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 375,
+        "noise": 0.839138,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.996Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 369,
+        "noise": 0.676996,
+        "light": 767
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.997Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 383,
+        "noise": 0.401319,
+        "light": 565
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.997Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 387,
+        "noise": 0.683947,
+        "light": 930
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.997Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 398,
+        "noise": 0.8087,
+        "light": 581
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.998Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 446,
+        "noise": 0.759856,
+        "light": 758
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:04.998Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 277,
+        "noise": 0.563971,
+        "light": 933
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:05.712Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 408,
+        "noise": 0.594353,
+        "light": 917
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:05.712Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 562,
+        "noise": 0.486607,
+        "light": 1120
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:05.713Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 419,
+        "noise": 0.441172,
+        "light": 750
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.226Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 44.2,
+        "airQuality": 473,
+        "noise": 0.795368,
+        "light": 923
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.227Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 458,
+        "noise": 0.660886,
+        "light": 749
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.227Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 411,
+        "noise": 0.622721,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.227Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 432,
+        "noise": 0.548374,
+        "light": 761
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.227Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 421,
+        "noise": 0.580744,
+        "light": 381
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.228Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 335,
+        "noise": 0.553201,
+        "light": 21
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.228Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 368,
+        "noise": 0.38816,
+        "light": 763
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.229Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 411,
+        "noise": 0.457541,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.947Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 331,
+        "noise": 0.503364,
+        "light": 742
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:06.948Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 448,
+        "noise": 0.463466,
+        "light": 28
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:07.494Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 368,
+        "noise": 0.506239,
+        "light": 742
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:07.495Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 405,
+        "noise": 0.628213,
+        "light": 26
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:07.495Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 336,
+        "noise": 0.607267,
+        "light": 382
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:07.496Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 486,
+        "noise": 0.910861,
+        "light": 1114
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:07.496Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 705,
+        "noise": 0.473419,
+        "light": 337
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:07.497Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 383,
+        "noise": 0.464743,
+        "light": 757
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:07.497Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 374,
+        "noise": 0.547482,
+        "light": 372
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:07.497Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 455,
+        "noise": 0.49952,
+        "light": 749
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.565Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 110,
+        "noise": 0.86726,
+        "light": 561
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.566Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.6,
+        "airQuality": 336,
+        "noise": 1,
+        "light": 559
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.567Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 288,
+        "noise": 0.552401,
+        "light": 563
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.568Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 433,
+        "noise": 0.492457,
+        "light": 974
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.568Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 349,
+        "noise": 0.514078,
+        "light": 624
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.569Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 410,
+        "noise": 0.624823,
+        "light": 393
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.570Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 401,
+        "noise": 0.4453,
+        "light": 931
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.570Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 438,
+        "noise": 0.455684,
+        "light": 727
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.572Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 405,
+        "noise": 0.502337,
+        "light": 372
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.765Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 431,
+        "noise": 0.398335,
+        "light": 731
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.766Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 400,
+        "noise": 0.422013,
+        "light": 46
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:08.766Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 463,
+        "noise": 0.414322,
+        "light": 570
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:09.826Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 811,
+        "noise": 0.542242,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:09.826Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 413,
+        "noise": 0.449478,
+        "light": 802
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:09.827Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 434,
+        "noise": 0.494574,
+        "light": 331
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:09.827Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 361,
+        "noise": 0.581701,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:09.828Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 433,
+        "noise": 0.506331,
+        "light": 368
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:10.186Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 314,
+        "noise": 0.715988,
+        "light": 571
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:10.186Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 341,
+        "noise": 0.727631,
+        "light": 0
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:10.186Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 415,
+        "noise": 0.577259,
+        "light": 618
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:10.187Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 370,
+        "noise": 0.530653,
+        "light": 385
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:10.187Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 550,
+        "noise": 0.765861,
+        "light": 1296
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.086Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 379,
+        "noise": 0.616214,
+        "light": 562
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.086Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 459,
+        "noise": 0.644669,
+        "light": 17
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.086Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 417,
+        "noise": 0.655957,
+        "light": 374
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.087Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 421,
+        "noise": 0.564126,
+        "light": 387
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.087Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 396,
+        "noise": 0.694547,
+        "light": 386
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.087Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 511,
+        "noise": 0.640855,
+        "light": 749
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.087Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 395,
+        "noise": 0.511819,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.627Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 791,
+        "noise": 0.965344,
+        "light": 738
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.627Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 387,
+        "noise": 1,
+        "light": 24
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:11.628Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.7,
+        "airQuality": 377,
+        "noise": 0.766846,
+        "light": 569
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:12.368Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 393,
+        "noise": 0.730482,
+        "light": 553
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:12.369Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 511,
+        "noise": 0.545445,
+        "light": 930
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:12.369Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 342,
+        "noise": 0.792799,
+        "light": 388
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:12.369Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 370,
+        "noise": 0.713886,
+        "light": 383
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:12.370Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 413,
+        "noise": 0.664278,
+        "light": 366
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.069Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 399,
+        "noise": 0.540671,
+        "light": 885
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.069Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 412,
+        "noise": 0.545118,
+        "light": 567
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.070Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 434,
+        "noise": 0.699205,
+        "light": 747
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.070Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 411,
+        "noise": 0.534477,
+        "light": 727
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.070Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 287,
+        "noise": 0.475369,
+        "light": 749
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.607Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 336,
+        "noise": 0.570868,
+        "light": 372
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.608Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 407,
+        "noise": 0.49149,
+        "light": 31
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.608Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 90,
+        "noise": 0.720838,
+        "light": 712
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.608Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 393,
+        "noise": 0.818405,
+        "light": 375
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.609Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 431,
+        "noise": 0.74712,
+        "light": 935
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.609Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 432,
+        "noise": 0.716146,
+        "light": 378
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.609Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 80,
+        "noise": 0.629056,
+        "light": 933
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:13.610Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 345,
+        "noise": 0.736681,
+        "light": 754
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:14.928Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 36,
+        "noise": 0.922424,
+        "light": 931
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:14.929Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 358,
+        "noise": 0.796162,
+        "light": 14
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:14.929Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 417,
+        "noise": 0.552561,
+        "light": 361
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:14.930Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 262,
+        "noise": 0.499048,
+        "light": 1110
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:14.930Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 414,
+        "noise": 0.65023,
+        "light": 756
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:14.930Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 395,
+        "noise": 0.865108,
+        "light": 581
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:14.931Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 378,
+        "noise": 0.765814,
+        "light": 935
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:14.931Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 368,
+        "noise": 0.670219,
+        "light": 730
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:15.303Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 316,
+        "noise": 0.650108,
+        "light": 607
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:15.304Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 352,
+        "noise": 0.668874,
+        "light": 938
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:15.305Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 378,
+        "noise": 0.430326,
+        "light": 585
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:15.305Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.1,
+        "humidity": 45.7,
+        "airQuality": 405,
+        "noise": 0.505962,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.086Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 362,
+        "noise": 0.804296,
+        "light": 374
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.087Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 366,
+        "noise": 0.851218,
+        "light": 400
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.088Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 411,
+        "noise": 0.677914,
+        "light": 554
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.088Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 432,
+        "noise": 0.984701,
+        "light": 752
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.089Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 394,
+        "noise": 0.739574,
+        "light": 1134
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.089Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 306,
+        "noise": 0.550716,
+        "light": 375
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.512Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 372,
+        "noise": 0.60472,
+        "light": 858
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.512Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 352,
+        "noise": 0.646098,
+        "light": 220
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.513Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 320,
+        "noise": 0.639471,
+        "light": 558
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:16.513Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 827,
+        "noise": 0.553041,
+        "light": 934
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:17.560Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 370,
+        "noise": 0.79625,
+        "light": 946
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:17.560Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 349,
+        "noise": 0.783021,
+        "light": 762
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:17.560Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 348,
+        "noise": 0.619415,
+        "light": 751
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:17.561Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 377,
+        "noise": 0.562808,
+        "light": 749
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:17.561Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 352,
+        "noise": 0.928324,
+        "light": 1118
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:17.562Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 445,
+        "noise": 0.9691,
+        "light": 756
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:17.562Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 400,
+        "noise": 0.586235,
+        "light": 721
+      }
+    },
+    {
+      "timestamp": "2026-06-02T10:49:17.562Z",
+      "id": "L17312123412",
+      "name": "Parque Verde",
+      "sensors": {
+        "temperature": 26.2,
+        "humidity": 45.8,
+        "airQuality": 0,
+        "noise": 0.861708,
+        "light": 775
+      }
+    }
+  ]
+}

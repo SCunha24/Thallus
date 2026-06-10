@@ -1,0 +1,1436 @@
+{
+  "name": "Santa Clara",
+  "total_readings": 119,
+  "first_reading": "2026-06-02T16:37:45.051Z",
+  "last_reading": "2026-06-02T16:47:38.141Z",
+  "readings": [
+    {
+      "timestamp": "2026-06-02T16:37:45.051Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21,
+        "humidity": 54.4,
+        "airQuality": 265,
+        "noise": 0.851692,
+        "light": 786
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:37:50.337Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.1,
+        "humidity": 54.4,
+        "airQuality": 284,
+        "noise": 0.486016,
+        "light": 327
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:37:55.154Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.2,
+        "humidity": 54.6,
+        "airQuality": 282,
+        "noise": 0.609114,
+        "light": 792
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:00.175Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.1,
+        "humidity": 54.4,
+        "airQuality": 323,
+        "noise": 0.735678,
+        "light": 1125
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:05.293Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.1,
+        "humidity": 54.4,
+        "airQuality": 294,
+        "noise": 0.440825,
+        "light": 591
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:10.182Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.2,
+        "humidity": 54.5,
+        "airQuality": 222,
+        "noise": 0.689057,
+        "light": 993
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:16.353Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.7,
+        "humidity": 54.6,
+        "airQuality": 223,
+        "noise": 1,
+        "light": 154
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:20.243Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.2,
+        "humidity": 54.3,
+        "airQuality": 248,
+        "noise": 1,
+        "light": 425
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:25.496Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.2,
+        "humidity": 54.2,
+        "airQuality": 226,
+        "noise": 1,
+        "light": 610
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:30.381Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.1,
+        "humidity": 54.1,
+        "airQuality": 331,
+        "noise": 1,
+        "light": 404
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:35.392Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21.1,
+        "humidity": 53.9,
+        "airQuality": 281,
+        "noise": 0.791109,
+        "light": 1137
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:40.519Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21,
+        "humidity": 53.8,
+        "airQuality": 310,
+        "noise": 0.378719,
+        "light": 747
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:45.442Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21,
+        "humidity": 53.8,
+        "airQuality": 310,
+        "noise": 0.905347,
+        "light": 391
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:50.338Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21,
+        "humidity": 53.8,
+        "airQuality": 270,
+        "noise": 1,
+        "light": 343
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:38:55.391Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21,
+        "humidity": 53.9,
+        "airQuality": 342,
+        "noise": 0.506608,
+        "light": 946
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:00.449Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.9,
+        "humidity": 53.9,
+        "airQuality": 272,
+        "noise": 1,
+        "light": 208
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:05.436Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.8,
+        "humidity": 54,
+        "airQuality": 287,
+        "noise": 0.483639,
+        "light": 753
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:10.575Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.8,
+        "humidity": 54.1,
+        "airQuality": 379,
+        "noise": 0.554794,
+        "light": 589
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:16.258Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 21,
+        "humidity": 54.3,
+        "airQuality": 288,
+        "noise": 0.802993,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:21.276Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.7,
+        "humidity": 54.3,
+        "airQuality": 331,
+        "noise": 0.930755,
+        "light": 44
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:25.680Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.4,
+        "humidity": 54.3,
+        "airQuality": 330,
+        "noise": 0.656017,
+        "light": 959
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:30.702Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.7,
+        "humidity": 54.5,
+        "airQuality": 317,
+        "noise": 0.644918,
+        "light": 973
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:35.921Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.7,
+        "humidity": 54.5,
+        "airQuality": 206,
+        "noise": 0.90624,
+        "light": 989
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:40.623Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.5,
+        "humidity": 54.5,
+        "airQuality": 270,
+        "noise": 0.496676,
+        "light": 589
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:45.716Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.5,
+        "humidity": 54.7,
+        "airQuality": 305,
+        "noise": 0.71735,
+        "light": 947
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:50.656Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.8,
+        "humidity": 55,
+        "airQuality": 337,
+        "noise": 0.804426,
+        "light": 576
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:39:55.888Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.5,
+        "humidity": 54.9,
+        "airQuality": 231,
+        "noise": 1,
+        "light": 327
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:00.730Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.5,
+        "humidity": 55,
+        "airQuality": 303,
+        "noise": 0.563894,
+        "light": 585
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:05.737Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.4,
+        "humidity": 55,
+        "airQuality": 272,
+        "noise": 0.596549,
+        "light": 769
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:10.821Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.5,
+        "humidity": 55.2,
+        "airQuality": 302,
+        "noise": 0.494478,
+        "light": 955
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:15.857Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.4,
+        "humidity": 55.3,
+        "airQuality": 315,
+        "noise": 0.42803,
+        "light": 780
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:21.001Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.5,
+        "humidity": 55.4,
+        "airQuality": 275,
+        "noise": 0.846411,
+        "light": 770
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:25.893Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.4,
+        "humidity": 55.4,
+        "airQuality": 193,
+        "noise": 1,
+        "light": 109
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:31.015Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.3,
+        "humidity": 55.5,
+        "airQuality": 226,
+        "noise": 1,
+        "light": 366
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:35.928Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.3,
+        "humidity": 55.6,
+        "airQuality": 258,
+        "noise": 0.579931,
+        "light": 785
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:40.949Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.2,
+        "humidity": 55.6,
+        "airQuality": 327,
+        "noise": 0.876499,
+        "light": 583
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:45.968Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.3,
+        "humidity": 55.8,
+        "airQuality": 197,
+        "noise": 1,
+        "light": 422
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:51.198Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.2,
+        "humidity": 55.8,
+        "airQuality": 471,
+        "noise": 0.565053,
+        "light": 975
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:40:56.195Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.1,
+        "humidity": 55.9,
+        "airQuality": 229,
+        "noise": 0.393649,
+        "light": 955
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:01.061Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 55.9,
+        "airQuality": 336,
+        "noise": 0.471663,
+        "light": 589
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:06.240Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 55.9,
+        "airQuality": 609,
+        "noise": 1,
+        "light": 311
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:11.132Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.1,
+        "humidity": 56.2,
+        "airQuality": 242,
+        "noise": 0.707197,
+        "light": 1167
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:16.176Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.1,
+        "humidity": 56.3,
+        "airQuality": 328,
+        "noise": 1,
+        "light": 320
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:21.133Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.2,
+        "humidity": 56.4,
+        "airQuality": 242,
+        "noise": 0.926157,
+        "light": 763
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:26.135Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.2,
+        "humidity": 56.4,
+        "airQuality": 263,
+        "noise": 0.580522,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:31.328Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.1,
+        "humidity": 56.4,
+        "airQuality": 309,
+        "noise": 0.713728,
+        "light": 960
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:36.243Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.4,
+        "airQuality": 245,
+        "noise": 0.501307,
+        "light": 39
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:41.569Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.5,
+        "airQuality": 258,
+        "noise": 0.490326,
+        "light": 577
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:46.281Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.5,
+        "airQuality": 384,
+        "noise": 0.484135,
+        "light": 35
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:51.540Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.1,
+        "humidity": 56.7,
+        "airQuality": 338,
+        "noise": 0.878868,
+        "light": 574
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:41:56.396Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.6,
+        "airQuality": 375,
+        "noise": 0.468328,
+        "light": 1343
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:01.435Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.1,
+        "humidity": 56.7,
+        "airQuality": 238,
+        "noise": 0.49848,
+        "light": 963
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:06.343Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.7,
+        "airQuality": 309,
+        "noise": 0.430807,
+        "light": 387
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:11.678Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.7,
+        "airQuality": 375,
+        "noise": 0.95978,
+        "light": 580
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:16.384Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.6,
+        "humidity": 56.5,
+        "airQuality": 272,
+        "noise": 0.586307,
+        "light": 791
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:21.461Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 56.7,
+        "airQuality": 329,
+        "noise": 0.541581,
+        "light": 585
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:26.523Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 56.7,
+        "airQuality": 305,
+        "noise": 0.914813,
+        "light": 770
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:31.499Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.9,
+        "airQuality": 284,
+        "noise": 0.757614,
+        "light": 605
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:36.566Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.4,
+        "humidity": 57.1,
+        "airQuality": 369,
+        "noise": 0.592001,
+        "light": 584
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:41.601Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 56.8,
+        "airQuality": 253,
+        "noise": 0.578746,
+        "light": 970
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:46.522Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.9,
+        "airQuality": 283,
+        "noise": 0.468538,
+        "light": 779
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:52.061Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.5,
+        "humidity": 56.7,
+        "airQuality": 233,
+        "noise": 0.413296,
+        "light": 747
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:42:56.758Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 57,
+        "airQuality": 312,
+        "noise": 0.627888,
+        "light": 744
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:01.960Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 56.9,
+        "airQuality": 306,
+        "noise": 0.915866,
+        "light": 585
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:06.887Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 57,
+        "airQuality": 265,
+        "noise": 0.446888,
+        "light": 774
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:11.789Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.6,
+        "humidity": 56.9,
+        "airQuality": 318,
+        "noise": 0.42251,
+        "light": 1142
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:16.697Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 57,
+        "airQuality": 253,
+        "noise": 0.527648,
+        "light": 775
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:22.846Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 57.1,
+        "airQuality": 270,
+        "noise": 0.424732,
+        "light": 588
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:26.921Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 57.1,
+        "airQuality": 464,
+        "noise": 0.526178,
+        "light": 581
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:31.830Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.2,
+        "humidity": 57.2,
+        "airQuality": 260,
+        "noise": 0.578672,
+        "light": 777
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:36.855Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 57.1,
+        "airQuality": 339,
+        "noise": 0.573514,
+        "light": 586
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:41.866Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.5,
+        "humidity": 56.9,
+        "airQuality": 333,
+        "noise": 0.49867,
+        "light": 589
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:46.902Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20.2,
+        "humidity": 57.2,
+        "airQuality": 290,
+        "noise": 0.821138,
+        "light": 944
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:51.945Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 57,
+        "airQuality": 336,
+        "noise": 0.758808,
+        "light": 29
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:43:56.892Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 57,
+        "airQuality": 264,
+        "noise": 0.739525,
+        "light": 701
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:02.032Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 56.9,
+        "airQuality": 202,
+        "noise": 0.681169,
+        "light": 33
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:07.084Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 56.9,
+        "airQuality": 318,
+        "noise": 0.477103,
+        "light": 773
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:12.102Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 56.9,
+        "airQuality": 272,
+        "noise": 0.438501,
+        "light": 773
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:17.119Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 56.8,
+        "airQuality": 272,
+        "noise": 0.453152,
+        "light": 593
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:22.034Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 56.9,
+        "airQuality": 359,
+        "noise": 0.461326,
+        "light": 593
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:27.052Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.6,
+        "humidity": 56.8,
+        "airQuality": 236,
+        "noise": 1,
+        "light": 335
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:32.172Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 57,
+        "airQuality": 208,
+        "noise": 1,
+        "light": 726
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:37.225Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 57.1,
+        "airQuality": 293,
+        "noise": 0.945699,
+        "light": 212
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:42.120Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 57.2,
+        "airQuality": 240,
+        "noise": 0.554556,
+        "light": 407
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:47.236Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.1,
+        "airQuality": 113,
+        "noise": 0.628018,
+        "light": 400
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:52.632Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 57.3,
+        "airQuality": 245,
+        "noise": 0.808227,
+        "light": 782
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:44:57.314Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.2,
+        "airQuality": 240,
+        "noise": 0.996311,
+        "light": 959
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:02.381Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 306,
+        "noise": 1,
+        "light": 606
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:07.296Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 314,
+        "noise": 0.519079,
+        "light": 775
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:12.313Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 333,
+        "noise": 0.42608,
+        "light": 586
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:17.536Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 305,
+        "noise": 0.635924,
+        "light": 579
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:22.452Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 20,
+        "humidity": 57.4,
+        "airQuality": 259,
+        "noise": 1,
+        "light": 489
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:27.367Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 57.3,
+        "airQuality": 173,
+        "noise": 1,
+        "light": 463
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:32.385Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 303,
+        "noise": 0.91919,
+        "light": 766
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:37.404Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 336,
+        "noise": 0.906882,
+        "light": 466
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:42.524Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 349,
+        "noise": 0.564976,
+        "light": 770
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:47.551Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 240,
+        "noise": 0.800071,
+        "light": 405
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:52.560Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.3,
+        "airQuality": 279,
+        "noise": 1,
+        "light": 243
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:57.499Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.6,
+        "humidity": 57.2,
+        "airQuality": 278,
+        "noise": 0.739126,
+        "light": 777
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:02.697Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.9,
+        "humidity": 57.4,
+        "airQuality": 201,
+        "noise": 1,
+        "light": 336
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:07.555Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.4,
+        "airQuality": 262,
+        "noise": 0.705374,
+        "light": 43
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:12.634Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.4,
+        "airQuality": 307,
+        "noise": 0.601459,
+        "light": 963
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:17.648Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.4,
+        "airQuality": 208,
+        "noise": 1,
+        "light": 23
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:22.690Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.5,
+        "airQuality": 350,
+        "noise": 0.760665,
+        "light": 560
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:27.674Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.5,
+        "airQuality": 252,
+        "noise": 0.75024,
+        "light": 767
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:32.802Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.6,
+        "airQuality": 308,
+        "noise": 0.821557,
+        "light": 789
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:37.719Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.6,
+        "airQuality": 336,
+        "noise": 0.805811,
+        "light": 586
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:42.767Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.6,
+        "airQuality": 281,
+        "noise": 1,
+        "light": 363
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:47.758Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.6,
+        "airQuality": 354,
+        "noise": 1,
+        "light": 215
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:52.875Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.6,
+        "airQuality": 277,
+        "noise": 0.579265,
+        "light": 579
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:46:57.820Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.7,
+        "airQuality": 273,
+        "noise": 0.508721,
+        "light": 591
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:02.916Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.7,
+        "airQuality": 362,
+        "noise": 0.988988,
+        "light": 1157
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:08.065Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.8,
+        "airQuality": 1,
+        "noise": 0.448805,
+        "light": 407
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:12.913Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.8,
+        "airQuality": 399,
+        "noise": 1,
+        "light": 302
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:17.968Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.8,
+        "airQuality": 325,
+        "noise": 0.901436,
+        "light": 965
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:22.983Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.7,
+        "airQuality": 272,
+        "noise": 1,
+        "light": 531
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:28.100Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.8,
+        "humidity": 57.7,
+        "airQuality": 378,
+        "noise": 1,
+        "light": 386
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:33.017Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.6,
+        "airQuality": 262,
+        "noise": 1,
+        "light": 321
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:38.141Z",
+      "id": "L17312123412",
+      "name": "Santa Clara",
+      "sensors": {
+        "temperature": 19.7,
+        "humidity": 57.7,
+        "airQuality": 230,
+        "noise": 1,
+        "light": 429
+      }
+    }
+  ]
+}

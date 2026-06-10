@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thallus</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/overview.css">
+    <link rel="stylesheet" href="css/comparison.css">
+    <link rel="stylesheet" href="css/detailed.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <div class="app">
+        <header class="header">
+            <div class="header-left">
+                <div class="logo">Thallus</div>
+                <span class="location">Coimbra, Portugal</span>
+            </div>
+            <nav class="mode-nav">
+                <button class="mode-btn active" data-mode="overview" title="Vista Geral">
+                    Vista Geral
+                </button>
+                <button class="mode-btn" data-mode="comparison" title="Comparação">
+                    Comparação
+                </button>
+                <button class="mode-btn" data-mode="detailed" title="Detalhado">
+                    Detalhado
+                </button>
+            </nav>
+            <div class="header-right">
+                <div class="clock" id="clock">00:00</div>
+            </div>
+        </header>
+
+        <main class="main">
+            <!-- Modo geral -->
+            <section class="view-section active" id="overview-view">
+                <div class="map-container full">
+                    <img src="data/map.png" alt="Mapa" class="map-image">
+                    <div class="markers" id="markers"></div>
+                    <div class="legend">
+                        <div class="legend-row">
+                            <span class="legend-dot normal"></span>
+                            <span>Normal</span>
+                        </div>
+                        <div class="legend-row">
+                            <span class="legend-dot uncomfortable"></span>
+                            <span>Desconfortável</span>
+                        </div>
+                        <div class="legend-row">
+                            <span class="legend-dot dangerous"></span>
+                            <span>Perigoso</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="info-panel" id="infoPanel"></div>
+            </section>
+
+            <!-- Modo comparação -->
+            <section class="view-section" id="comparison-view">
+                <div class="comparison-layout">
+                    <div class="map-sidebar">
+                        <div class="map-container small">
+                            <img src="data/map.png" alt="Mapa" class="map-image">
+                            <div class="markers" id="markersComparison"></div>
+                        </div>
+                    </div>
+                    <div class="comparison-content">
+                        <div class="comparison-header">
+                            <h2>Comparação de Locais</h2>
+                            <p>Análise técnica dos sensores</p>
+                        </div>
+                        <div class="comparison-grid" id="comparisonGrid"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Modo detalhado -->
+            <section class="view-section" id="detailed-view">
+                <div class="detailed-layout">
+                    <div class="map-sidebar">
+                        <div class="map-container small">
+                            <img src="data/map.png" alt="Mapa" class="map-image">
+                            <div class="markers" id="markersDetailed"></div>
+                        </div>
+                    </div>
+                    <div class="charts-content" id="chartsContent"></div>
+                </div>
+            </section>
+        </main>
+
+    </div>
+
+    <script src="https://unpkg.com/mqtt@5.0.5/dist/mqtt.min.js"></script>
+    <script src="playback-manager.js"></script>
+    <script src="mqtt-client.js"></script>
+    <script src="data-manager.js"></script>
+    <script src="ui-controller.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
