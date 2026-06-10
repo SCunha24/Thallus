@@ -20,21 +20,16 @@ Interface web para monitorização e visualização em tempo real de dados ambie
 ## Objeto Físico
 
 ![Objeto físico](imagens/imagens_objeto/IMG_3868.PNG)
-![](imagens/imagens_objeto/IMG_3869.PNG)
-![](imagens/imagens_objeto/IMG_3878.PNG)
-![](imagens/imagens_objeto/IMG_3975.PNG)
-![](imagens/imagens_objeto/IMG_3977.PNG)
-![](imagens/imagens_objeto/IMG_3979.PNG)
-![](imagens/imagens_objeto/IMG_3980.PNG)
-![](imagens/imagens_objeto/IMG_3981.PNG)
-![](imagens/imagens_objeto/IMG_3982.PNG)
-
 
 ---
 
 ## Descrição
 
-O Thallus agrega leituras de sensores ambientais (temperatura, humidade, qualidade do ar, ruído e luminosidade) e apresenta-as de forma visual e interativa sobre um mapa da cidade de Coimbra. O sistema suporta dados em tempo real via MQTT e recorre automaticamente a dados históricos quando a ligação ao broker não está disponível.
+Thallus surge como resposta a um problema de invisibilidade da maior parte dos dados ambientais urbanos. Qualidade do ar, ruído, luminosidade, humidade e temperatura mudam constantemente e afetam o nosso quotidiano, mas não têm presença percetível no espaço.
+
+O projeto materializa esses dados em duas formas complementares. A **interface web** agrega leituras de múltiplos pontos da cidade de Coimbra e apresenta-as de forma visual e interativa sobre um mapa, com três modos de visualização e suporte a dados em tempo real via MQTT. O **objeto físico** que traduz o mesmo ambiente em luz, a cor muda com a temperatura, a pulsação acompanha o nível de ruído, os LEDs apagam-se progressivamente com a poluição, e a saturação reflete a humidade — um mapeamento intuitivo e imediato das condições locais.
+
+O projeto é inspirado nas algas coralinas, organismos bioindicadores que revelam o estado do ambiente em volta através da sua própria aparência. O Thallus parte dessa ideia, um objeto que, à semelhança de um ser vivo, muda de estado em resposta ao ambiente que o rodeia.
 
 ---
 
@@ -58,6 +53,11 @@ O Thallus agrega leituras de sensores ambientais (temperatura, humidade, qualida
 | loc_3 | Vale das Flores | 
 | loc_4 | Santa Clara | 
 | loc_5 | Estádio | 
+
+---
+
+![](imagens/imagens_objeto/IMG_3975.PNG) 
+![](imagens/imagens_objeto/IMG_3977.PNG) 
 
 ---
 
@@ -86,6 +86,9 @@ A fita de 30 LEDs traduz o ambiente em tempo real:
 | **Ruído** | Pulsação — velocidade e amplitude crescem com o nível sonoro |
 | **Humidade** | Saturação da cor — ar mais húmido = cores mais deslavadas |
 | **Luminosidade** | Sensibilidade global — luz intensa amplifica os efeitos dos outros sensores |
+
+![](imagens/imagens_objeto/IMG_3979.PNG) 
+![](imagens/imagens_objeto/IMG_3982.PNG) 
 
 ### Payload publicado (a cada 5 segundos)
 
